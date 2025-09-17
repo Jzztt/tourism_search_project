@@ -1,0 +1,48 @@
+[
+  {
+    "image_id": "danang_001",
+    "image_path": "images/danang/danang_001.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung"
+    },
+    "landmark": "Cầu Rồng",
+    "captions": {
+      "vi": "Cầu Rồng Đà Nẵng lung linh về đêm",
+      "en": "Dragon Bridge in Da Nang illuminated at night"
+    },
+    "tags": [
+      "đà nẵng",
+      "da nang",
+      "cầu rồng",
+      "dragon bridge",
+      "landmark"
+    ],
+    "category": "architecture",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "danang_002",
+    "image_path": "images/danang/danang_002.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung"
+    },
+    "landmark": "Bãi biển Mỹ Khê",
+    "captions": {
+      "vi": "Bãi biển Mỹ Khê Đà Nẵng cát trắng nước trong",
+      "en": "My Khe Beach in Da Nang with white sand and clear water"
+    },
+    "tags": [
+      "đà nẵng",
+      "da nang",
+      "mỹ khê",
+      "my khe beach",
+      "beach"
+    ],
+    "category": "beach",
+    "time_taken": "day"
+  }
+]
