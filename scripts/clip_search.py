@@ -1,4 +1,3 @@
-# Text-to-Image Search System sử dụng CLIP
 import json
 import os
 import numpy as np

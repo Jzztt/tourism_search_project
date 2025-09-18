@@ -91,7 +91,7 @@
   },
   {
     "image_id": "hanoi_003",
-    "image_path": "images/hanoi/hanoi_003.png",
+    "image_path": "images/hanoi/hanoi_003.jpg",
     "location": {
       "city": "Hà Nội",
       "country": "Việt Nam"
@@ -439,7 +439,7 @@
   },
   {
     "image_id": "hanoi_031",
-    "image_path": "images/hanoi/hanoi_031.png",
+    "image_path": "images/hanoi/hanoi_031.jpg",
     "location": {
       "city": "Hà Nội",
       "country": "Việt Nam"
@@ -878,7 +878,7 @@
   },
   {
     "image_id": "hanoi_053",
-    "image_path": "images/hanoi/hanoi_053.png",
+    "image_path": "images/hanoi/hanoi_053.jpg",
     "location": {
       "city": "Hà Nội",
       "country": "Việt Nam"
@@ -1309,7 +1309,7 @@
   },
   {
     "image_id": "hue_007",
-    "image_path": "images/hue/hue_007.png",
+    "image_path": "images/hue/hue_007.jpg",
     "location": {
       "city": "Huế",
       "country": "Việt Nam"
@@ -1394,7 +1394,7 @@
   },
   {
     "image_id": "hue_011",
-    "image_path": "images/hue/hue_011.png",
+    "image_path": "images/hue/hue_011.jpg",
     "location": {
       "city": "Huế",
       "country": "Việt Nam"
@@ -1587,7 +1587,7 @@
   },
   {
     "image_id": "hue_021",
-    "image_path": "images/hue/hue_021.png",
+    "image_path": "images/hue/hue_021.jpg",
     "location": {
       "city": "Huế",
       "country": "Việt Nam"
@@ -1913,7 +1913,7 @@
   },
   {
     "image_id": "hue_047",
-    "image_path": "images/hue/hue_047.png",
+    "image_path": "images/hue/hue_047.jpg",
     "location": {
       "city": "Huế",
       "country": "Việt Nam"
@@ -2001,7 +2001,7 @@
   },
   {
     "image_id": "hue_053",
-    "image_path": "images/hue/hue_053.png",
+    "image_path": "images/hue/hue_053.jpg",
     "location": {
       "city": "Huế",
       "country": "Việt Nam"
@@ -2797,7 +2797,7 @@
   },
   {
     "image_id": "mocchau_023",
-    "image_path": "images/mocchau/mocchau_023.png",
+    "image_path": "images/mocchau/mocchau_023.jpg",
     "location": {
       "city": "Mộc Châu",
       "country": "Việt Nam"
@@ -3107,7 +3107,7 @@
   },
   {
     "image_id": "mocchau_037",
-    "image_path": "images/mocchau/mocchau_037.png",
+    "image_path": "images/mocchau/mocchau_037.jpg",
     "location": {
       "city": "Mộc Châu",
       "country": "Việt Nam"
