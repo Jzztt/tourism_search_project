@@ -44,5 +44,3602 @@
     ],
     "category": "beach",
     "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_001",
+    "image_path": "images/hanoi/hanoi_001.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Tháp Rùa",
+    "captions": {
+      "vi": "Hồ Gươm lung linh về đêm với Tháp Rùa",
+      "en": "Hoan Kiem Lake at night with Turtle Tower"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "thap rua",
+      "night",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_002",
+    "image_path": "images/hanoi/hanoi_002.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cầu Thê Húc và Tháp Rùa",
+    "captions": {
+      "vi": "Cầu Thê Húc đỏ rực dẫn vào Tháp Rùa, Hà Nội",
+      "en": "The Huc Bridge leading to Turtle Tower, Hanoi"
+    },
+    "tags": [
+      "hanoi",
+      "the huc bridge",
+      "thap rua",
+      "landmark",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_003",
+    "image_path": "images/hanoi/hanoi_003.png",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Tháp Rùa",
+    "captions": {
+      "vi": "Bình minh trên Hồ Gươm với Tháp Rùa",
+      "en": "Sunrise at Hoan Kiem Lake with Turtle Tower"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "thap rua",
+      "sunrise",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "hanoi_004",
+    "image_path": "images/hanoi/hanoi_004.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Toàn cảnh Hồ Gươm về đêm, Hà Nội",
+      "en": "Panoramic view of Hoan Kiem Lake at night, Hanoi"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "night",
+      "cityscape",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_005",
+    "image_path": "images/hanoi/hanoi_005.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Cảnh hồ Gươm xanh mát giữa lòng Hà Nội",
+      "en": "Green waters of Hoan Kiem Lake in Hanoi"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "nature",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_006",
+    "image_path": "images/hanoi/hanoi_006.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Tháp Rùa",
+    "captions": {
+      "vi": "Tháp Rùa bên Hồ Gươm trong ánh nắng ban ngày",
+      "en": "Turtle Tower by Hoan Kiem Lake in daylight"
+    },
+    "tags": [
+      "hanoi",
+      "thap rua",
+      "hoan kiem lake",
+      "daylight",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_007",
+    "image_path": "images/hanoi/hanoi_007.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Khung cảnh Hồ Gươm yên bình với cây xanh bao quanh",
+      "en": "Peaceful scenery of Hoan Kiem Lake surrounded by greenery"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "nature",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_008",
+    "image_path": "images/hanoi/hanoi_008.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Hồ Gươm nhìn từ trên cao với cảnh thành phố bao quanh",
+      "en": "Aerial view of Hoan Kiem Lake with surrounding cityscape"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "aerial view",
+      "cityscape",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_009",
+    "image_path": "images/hanoi/hanoi_009.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Người dân đi bộ quanh Hồ Gươm, Hà Nội",
+      "en": "People walking around Hoan Kiem Lake, Hanoi"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "people",
+      "walking",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_011",
+    "image_path": "images/hanoi/hanoi_011.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Đền Lừ",
+    "captions": {
+      "vi": "Hồ Đền Lừ với các tòa nhà cao tầng phản chiếu vào mặt nước",
+      "en": "Den Lu Lake with high-rise buildings reflecting on the water"
+    },
+    "tags": [
+      "hanoi",
+      "ho den lu",
+      "lake",
+      "cityscape",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "sunset"
+  },
+  {
+    "image_id": "hanoi_012",
+    "image_path": "images/hanoi/hanoi_012.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Tháp Rùa",
+    "captions": {
+      "vi": "Tháp Rùa bên Hồ Gươm với tòa nhà VNPT Hà Nội phía sau",
+      "en": "Turtle Tower at Hoan Kiem Lake with VNPT Hanoi building in background"
+    },
+    "tags": [
+      "hanoi",
+      "thap rua",
+      "hoan kiem lake",
+      "vnpt",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_013",
+    "image_path": "images/hanoi/hanoi_013.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Toàn cảnh thành phố",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Hà Nội với Hồ Gươm nổi bật",
+      "en": "Panoramic view of Hanoi city with Hoan Kiem Lake"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "cityscape",
+      "panorama",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_014",
+    "image_path": "images/hanoi/hanoi_014.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Phố cổ Hà Nội với các quán cà phê và cửa hàng truyền thống",
+      "en": "Hanoi Old Quarter with cafes and traditional shops"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "street",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_016",
+    "image_path": "images/hanoi/hanoi_016.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Tháp Rùa",
+    "captions": {
+      "vi": "Tháp Rùa bên Hồ Gươm dưới ánh đèn ban đêm",
+      "en": "Turtle Tower at Hoan Kiem Lake illuminated at night"
+    },
+    "tags": [
+      "hanoi",
+      "thap rua",
+      "hoan kiem lake",
+      "night",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_017",
+    "image_path": "images/hanoi/hanoi_017.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Góc phố cổ Hà Nội đông đúc và sôi động",
+      "en": "Bustling corner of Hanoi Old Quarter"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "street",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_018",
+    "image_path": "images/hanoi/hanoi_018.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Hồ Gươm nhìn từ xa qua các cành cây",
+      "en": "Hoan Kiem Lake seen from afar through tree branches"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "nature",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_019",
+    "image_path": "images/hanoi/hanoi_019.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm",
+    "captions": {
+      "vi": "Cặp đôi ngồi bên Hồ Gươm tận hưởng không gian yên bình",
+      "en": "Couple sitting by Hoan Kiem Lake enjoying peaceful atmosphere"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "couple",
+      "peaceful",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_030",
+    "image_path": "images/hanoi/hanoi_030.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố đường tàu Hà Nội",
+    "captions": {
+      "vi": "Cặp đôi đi bộ trên đường tàu trong phố cổ Hà Nội",
+      "en": "Couple walking on railway tracks in Hanoi Old Quarter"
+    },
+    "tags": [
+      "hanoi",
+      "railway street",
+      "old quarter",
+      "couple",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_031",
+    "image_path": "images/hanoi/hanoi_031.png",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Tháp Rùa - Hồ Gươm",
+    "captions": {
+      "vi": "Tháp Rùa bên Hồ Gươm với chữ Hà Nội nổi bật",
+      "en": "Turtle Tower at Hoan Kiem Lake with Hanoi text overlay"
+    },
+    "tags": [
+      "hanoi",
+      "thap rua",
+      "hoan kiem lake",
+      "text overlay",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_032",
+    "image_path": "images/hanoi/hanoi_032.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố Hà Nội",
+    "captions": {
+      "vi": "Xe đạp chở đầy hoa trên đường phố Hà Nội",
+      "en": "Bicycle carrying flowers on Hanoi street"
+    },
+    "tags": [
+      "hanoi",
+      "bicycle",
+      "flowers",
+      "street",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_033",
+    "image_path": "images/hanoi/hanoi_033.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Toàn cảnh thành phố Hà Nội",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Hà Nội với các tòa nhà cao tầng",
+      "en": "Panoramic view of Hanoi city with skyscrapers"
+    },
+    "tags": [
+      "hanoi",
+      "cityscape",
+      "skyscraper",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_034",
+    "image_path": "images/hanoi/hanoi_034.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Gươm - Tháp Rùa",
+    "captions": {
+      "vi": "Tháp Rùa bên Hồ Gươm trong khung cảnh yên bình",
+      "en": "Turtle Tower at Hoan Kiem Lake in peaceful setting"
+    },
+    "tags": [
+      "hanoi",
+      "thap rua",
+      "hoan kiem lake",
+      "peaceful",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_035",
+    "image_path": "images/hanoi/hanoi_035.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Du lịch Hà Nội",
+    "captions": {
+      "vi": "Poster giới thiệu 10 địa điểm du lịch nổi tiếng ở Hà Nội",
+      "en": "Poster introducing 10 famous tourist spots in Hanoi"
+    },
+    "tags": [
+      "hanoi",
+      "tourism",
+      "poster",
+      "travel",
+      "vietnam"
+    ],
+    "category": "advertisement",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_036",
+    "image_path": "images/hanoi/hanoi_036.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố đường tàu Hà Nội",
+    "captions": {
+      "vi": "Quán cà phê bên đường tàu Hà Nội",
+      "en": "Coffee shop by Hanoi railway street"
+    },
+    "tags": [
+      "hanoi",
+      "railway street",
+      "coffee shop",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_037",
+    "image_path": "images/hanoi/hanoi_037.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Góc phố cổ với quán bún phở và sinh tố",
+      "en": "Old quarter corner with noodle and smoothie shops"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "street food",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_038",
+    "image_path": "images/hanoi/hanoi_038.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Cảnh phố cổ Hà Nội với nhiều cây xanh",
+      "en": "Hanoi old quarter street with lush greenery"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "greenery",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_039",
+    "image_path": "images/hanoi/hanoi_039.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cổng Thành Hà Nội",
+    "captions": {
+      "vi": "Cổng Thành Hà Nội đông đúc người qua lại",
+      "en": "Hanoi city gate crowded with people and vehicles"
+    },
+    "tags": [
+      "hanoi",
+      "city gate",
+      "traffic",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_041",
+    "image_path": "images/hanoi/hanoi_041.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố đi bộ Hà Nội",
+    "captions": {
+      "vi": "Ánh nắng xuyên qua tán cây trên phố đi bộ Hà Nội",
+      "en": "Sunlight filtering through trees on Hanoi walking street"
+    },
+    "tags": [
+      "hanoi",
+      "sunlight",
+      "trees",
+      "walking street",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "hanoi_042",
+    "image_path": "images/hanoi/hanoi_042.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Công viên Cầu Giấy",
+    "captions": {
+      "vi": "Công viên Cầu Giấy với hồ nước và khu dân cư xung quanh",
+      "en": "Cau Giay Park with lake and residential area around"
+    },
+    "tags": [
+      "hanoi",
+      "park",
+      "lake",
+      "residential",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_043",
+    "image_path": "images/hanoi/hanoi_043.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Nhà thờ Lớn Hà Nội",
+    "captions": {
+      "vi": "Nhà thờ Lớn Hà Nội lung linh ánh đèn về đêm",
+      "en": "Hanoi Cathedral glowing with lights at night"
+    },
+    "tags": [
+      "hanoi",
+      "cathedral",
+      "night",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_044",
+    "image_path": "images/hanoi/hanoi_044.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Quán cà phê City View Cafe ở phố cổ Hà Nội về đêm",
+      "en": "City View Cafe in Hanoi Old Quarter at night"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "cafe",
+      "night",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_045",
+    "image_path": "images/hanoi/hanoi_045.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Công viên Thống Nhất",
+    "captions": {
+      "vi": "Công viên Thống Nhất với không gian xanh và hồ nước",
+      "en": "Thong Nhat Park with green space and lake"
+    },
+    "tags": [
+      "hanoi",
+      "park",
+      "green space",
+      "lake",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_046",
+    "image_path": "images/hanoi/hanoi_046.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố đi bộ Hà Nội",
+    "captions": {
+      "vi": "Quang cảnh phố đi bộ Hà Nội với nhiều cây xanh",
+      "en": "View of Hanoi walking street with lush greenery"
+    },
+    "tags": [
+      "hanoi",
+      "walking street",
+      "greenery",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_048",
+    "image_path": "images/hanoi/hanoi_048.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Góc phố cổ Hà Nội với biển hiệu và cửa hàng",
+      "en": "Corner of Hanoi Old Quarter with signboards and shops"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "shops",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_049",
+    "image_path": "images/hanoi/hanoi_049.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố Thanh Hà",
+    "captions": {
+      "vi": "Phố Thanh Hà đông đúc xe cộ và người qua lại",
+      "en": "Thanh Ha street crowded with vehicles and people"
+    },
+    "tags": [
+      "hanoi",
+      "thanh ha street",
+      "traffic",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_050",
+    "image_path": "images/hanoi/hanoi_050.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Người phụ nữ đội nón lá gánh hàng trên phố cổ Hà Nội lúc chiều tà",
+      "en": "Woman wearing conical hat carrying baskets on Hanoi Old Quarter street at sunset"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "street vendor",
+      "sunset",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "sunset"
+  },
+  {
+    "image_id": "hanoi_051",
+    "image_path": "images/hanoi/hanoi_051.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Toàn cảnh thành phố Hà Nội về đêm",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Hà Nội lung linh ánh đèn về đêm",
+      "en": "Hanoi cityscape sparkling with lights at night"
+    },
+    "tags": [
+      "hanoi",
+      "cityscape",
+      "night",
+      "lights",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_052",
+    "image_path": "images/hanoi/hanoi_052.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Chủ tịch Hồ Chí Minh",
+    "captions": {
+      "vi": "Lăng Chủ tịch Hồ Chí Minh trong ngày nắng đẹp",
+      "en": "Ho Chi Minh Mausoleum on a sunny day"
+    },
+    "tags": [
+      "hanoi",
+      "ho chi minh mausoleum",
+      "landmark",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_053",
+    "image_path": "images/hanoi/hanoi_053.png",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Tháp Rùa Hồ Gươm",
+    "captions": {
+      "vi": "Tháp Rùa Hồ Gươm lung linh ánh đèn về đêm",
+      "en": "Turtle Tower at Hoan Kiem Lake illuminated at night"
+    },
+    "tags": [
+      "hanoi",
+      "turtle tower",
+      "hoan kiem lake",
+      "night",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_054",
+    "image_path": "images/hanoi/hanoi_054.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Công viên Thống Nhất",
+    "captions": {
+      "vi": "Cảnh đẹp công viên Thống Nhất với cây xanh và hồ nước",
+      "en": "Beautiful view of Thong Nhat Park with greenery and lake"
+    },
+    "tags": [
+      "hanoi",
+      "thong nhat park",
+      "nature",
+      "lake",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_055",
+    "image_path": "images/hanoi/hanoi_055.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Chủ tịch Hồ Chí Minh",
+    "captions": {
+      "vi": "Lăng Chủ tịch Hồ Chí Minh với dòng chữ Hà Nội - thủ đô nước Cộng hòa Xã hội Chủ nghĩa Việt Nam",
+      "en": "Ho Chi Minh Mausoleum with inscription 'Hanoi - Capital of the Socialist Republic of Vietnam'"
+    },
+    "tags": [
+      "hanoi",
+      "ho chi minh mausoleum",
+      "landmark",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_056",
+    "image_path": "images/hanoi/hanoi_056.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Toàn cảnh thành phố Hà Nội",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Hà Nội với các tòa nhà cao tầng vào buổi sáng sớm",
+      "en": "Panoramic view of Hanoi city with skyscrapers in early morning"
+    },
+    "tags": [
+      "hanoi",
+      "cityscape",
+      "skyscraper",
+      "morning",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "hanoi_057",
+    "image_path": "images/hanoi/hanoi_057.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Tháp Rùa Hồ Gươm",
+    "captions": {
+      "vi": "Tháp Rùa Hồ Gươm lung linh ánh đèn về đêm",
+      "en": "Turtle Tower at Hoan Kiem Lake illuminated at night"
+    },
+    "tags": [
+      "hanoi",
+      "turtle tower",
+      "hoan kiem lake",
+      "night",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_058",
+    "image_path": "images/hanoi/hanoi_058.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Tháp Rùa Hồ Gươm",
+    "captions": {
+      "vi": "Tháp Rùa Hồ Gươm lung linh ánh đèn về đêm",
+      "en": "Turtle Tower at Hoan Kiem Lake illuminated at night"
+    },
+    "tags": [
+      "hanoi",
+      "turtle tower",
+      "hoan kiem lake",
+      "night",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_059",
+    "image_path": "images/hanoi/hanoi_059.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Tháp Rùa Hồ Gươm",
+    "captions": {
+      "vi": "Tháp Rùa Hồ Gươm lung linh ánh đèn về đêm",
+      "en": "Turtle Tower at Hoan Kiem Lake illuminated at night"
+    },
+    "tags": [
+      "hanoi",
+      "turtle tower",
+      "hoan kiem lake",
+      "night",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_060",
+    "image_path": "images/hanoi/hanoi_060.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ Hoàn Kiếm",
+    "captions": {
+      "vi": "Hồ Hoàn Kiếm xanh mát với hoa vàng nở rộ bên bờ",
+      "en": "Hoan Kiem Lake with blooming yellow flowers on the shore"
+    },
+    "tags": [
+      "hanoi",
+      "hoan kiem lake",
+      "flowers",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_061",
+    "image_path": "images/hanoi/hanoi_061.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đảo Hồ Tây",
+    "captions": {
+      "vi": "Toàn cảnh đảo Hồ Tây lung linh ánh đèn về đêm",
+      "en": "West Lake island sparkling with lights at night"
+    },
+    "tags": [
+      "hanoi",
+      "west lake",
+      "island",
+      "night",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_062",
+    "image_path": "images/hanoi/hanoi_062.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hà Nội",
+    "captions": {
+      "vi": "Tòa nhà City View Cafe ở phố cổ Hà Nội đông đúc người qua lại",
+      "en": "City View Cafe building in bustling Hanoi Old Quarter"
+    },
+    "tags": [
+      "hanoi",
+      "old quarter",
+      "city view cafe",
+      "urban",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_063",
+    "image_path": "images/hanoi/hanoi_063.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Chủ tịch Hồ Chí Minh",
+    "captions": {
+      "vi": "Lăng Chủ tịch Hồ Chí Minh với dòng chữ ý nghĩa về cuộc sống và sự nghiệp",
+      "en": "Ho Chi Minh Mausoleum with meaningful inscriptions about life and career"
+    },
+    "tags": [
+      "hanoi",
+      "ho chi minh mausoleum",
+      "landmark",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_064",
+    "image_path": "images/hanoi/hanoi_064.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Một Cột",
+    "captions": {
+      "vi": "Chùa Một Cột - biểu tượng kiến trúc độc đáo của Hà Nội",
+      "en": "One Pillar Pagoda - unique architectural symbol of Hanoi"
+    },
+    "tags": [
+      "hanoi",
+      "one pillar pagoda",
+      "temple",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "landmark",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hanoi_067",
+    "image_path": "images/hanoi/hanoi_067.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Toàn cảnh thành phố Hà Nội về đêm",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Hà Nội lung linh ánh đèn về đêm",
+      "en": "Hanoi cityscape sparkling with lights at night"
+    },
+    "tags": [
+      "hanoi",
+      "cityscape",
+      "night",
+      "lights",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hanoi_068",
+    "image_path": "images/hanoi/hanoi_068.jpg",
+    "location": {
+      "city": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    "landmark": "Toàn cảnh thành phố Hà Nội về đêm",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Hà Nội lung linh ánh đèn về đêm",
+      "en": "Hanoi cityscape sparkling with lights at night"
+    },
+    "tags": [
+      "hanoi",
+      "cityscape",
+      "night",
+      "lights",
+      "vietnam"
+    ],
+    "category": "urban",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hue_001",
+    "image_path": "images/hue/hue_001.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Kinh thành Huế - di tích lịch sử nổi bật của cố đô Huế",
+      "en": "Hue Imperial Citadel - prominent historical site of the ancient capital"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_002",
+    "image_path": "images/hue/hue_002.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cổng Ngọ Môn",
+    "captions": {
+      "vi": "Cổng Ngọ Môn - cổng chính của Kinh thành Huế",
+      "en": "Ngo Mon Gate - main gate of the Hue Imperial Citadel"
+    },
+    "tags": [
+      "hue",
+      "ngo mon gate",
+      "imperial citadel",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_003",
+    "image_path": "images/hue/hue_003.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Khám phá Đại Nội Huế với kiến trúc cổ kính",
+      "en": "Exploring Hue Imperial City with ancient architecture"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_004",
+    "image_path": "images/hue/hue_004.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Kinh thành Huế dưới ánh nắng ban ngày",
+      "en": "Hue Imperial Citadel under daylight"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_005",
+    "image_path": "images/hue/hue_005.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Toàn cảnh Kinh thành Huế với tường thành và cảnh quan xanh mát",
+      "en": "Panoramic view of Hue Imperial Citadel with walls and greenery"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "panorama",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_006",
+    "image_path": "images/hue/hue_006.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Kinh thành Huế - ảnh chụp từ góc nhìn khác",
+      "en": "Hue Imperial Citadel - photo from a different angle"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_007",
+    "image_path": "images/hue/hue_007.png",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Kinh thành Huế với kiến trúc truyền thống",
+      "en": "Hue Imperial Citadel with traditional architecture"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "traditional architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_008",
+    "image_path": "images/hue/hue_008.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Lăng Tự Đức - một trong những lăng tẩm nổi tiếng ở Huế",
+      "en": "Tu Duc Tomb - one of the famous tombs in Hue"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "tomb",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_009",
+    "image_path": "images/hue/hue_009.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Chùa Thiên Mụ - ngôi chùa cổ nổi tiếng ở Huế",
+      "en": "Thien Mu Pagoda - famous ancient pagoda in Hue"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "pagoda",
+      "vietnam"
+    ],
+    "category": "religious",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_010",
+    "image_path": "images/hue/hue_010.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Lăng Khải Định - lăng tẩm kiến trúc độc đáo ở Huế",
+      "en": "Khai Dinh Tomb - unique architectural mausoleum in Hue"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "mausoleum",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_011",
+    "image_path": "images/hue/hue_011.png",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Lăng Tự Đức - một trong những lăng tẩm nổi tiếng tại Huế",
+      "en": "Tu Duc Tomb - one of the famous tombs in Hue"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "mausoleum",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_012",
+    "image_path": "images/hue/hue_012.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cổng Ngọ Môn",
+    "captions": {
+      "vi": "Cổng Ngọ Môn - cổng chính của Kinh thành Huế",
+      "en": "Ngo Mon Gate - main gate of the Hue Imperial Citadel"
+    },
+    "tags": [
+      "hue",
+      "ngo mon gate",
+      "imperial citadel",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_013",
+    "image_path": "images/hue/hue_013.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Kinh thành Huế - di tích lịch sử nổi bật",
+      "en": "Hue Imperial Citadel - prominent historical site"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_014",
+    "image_path": "images/hue/hue_014.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lầu Tứ Phương Vô Sự",
+    "captions": {
+      "vi": "Lầu Tứ Phương Vô Sự - công trình kiến trúc trong Kinh thành Huế",
+      "en": "Tu Phuong Vo Su Pavilion - architectural structure in Hue Imperial Citadel"
+    },
+    "tags": [
+      "hue",
+      "tu phuong vo su pavilion",
+      "imperial citadel",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_015",
+    "image_path": "images/hue/hue_015.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lầu Tứ Phương Vô Sự",
+    "captions": {
+      "vi": "Lầu Tứ Phương Vô Sự nhìn từ góc khác trong Kinh thành Huế",
+      "en": "Tu Phuong Vo Su Pavilion from another angle in Hue Imperial Citadel"
+    },
+    "tags": [
+      "hue",
+      "tu phuong vo su pavilion",
+      "imperial citadel",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_017",
+    "image_path": "images/hue/hue_017.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Lăng Tự Đức - cảnh quan và kiến trúc",
+      "en": "Tu Duc Tomb - landscape and architecture"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_018",
+    "image_path": "images/hue/hue_018.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Chùa Thiên Mụ - ngôi chùa cổ nổi tiếng ở Huế",
+      "en": "Thien Mu Pagoda - famous ancient pagoda in Hue"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "pagoda",
+      "vietnam"
+    ],
+    "category": "religious",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_019",
+    "image_path": "images/hue/hue_019.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Lăng Khải Định - lăng tẩm kiến trúc độc đáo",
+      "en": "Khai Dinh Tomb - unique architectural mausoleum"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "mausoleum",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_020",
+    "image_path": "images/hue/hue_020.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Toàn cảnh Kinh thành Huế nhìn từ trên cao",
+      "en": "Aerial view of Hue Imperial Citadel"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "aerial view",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_021",
+    "image_path": "images/hue/hue_021.png",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cửa Ngăn Thành",
+    "captions": {
+      "vi": "Cửa Ngăn Thành - cổng trong hệ thống kinh thành Huế",
+      "en": "Cua Ngan Thanh Gate - part of Hue Imperial Citadel"
+    },
+    "tags": [
+      "hue",
+      "imperial citadel",
+      "gate",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_022",
+    "image_path": "images/hue/hue_022.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Chùa Thiên Mụ - ngôi chùa cổ nổi tiếng ở Huế",
+      "en": "Thien Mu Pagoda - famous ancient pagoda in Hue"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "pagoda",
+      "vietnam"
+    ],
+    "category": "religious",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_023",
+    "image_path": "images/hue/hue_023.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Lăng Tự Đức - lăng tẩm nổi tiếng tại Huế",
+      "en": "Tu Duc Tomb - famous mausoleum in Hue"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "mausoleum",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_024",
+    "image_path": "images/hue/hue_024.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Lăng Tự Đức - một trong những lăng tẩm nổi tiếng ở Huế",
+      "en": "Tu Duc Tomb - one of the famous tombs in Hue"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "mausoleum",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_025",
+    "image_path": "images/hue/hue_025.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Sông Hương",
+    "captions": {
+      "vi": "Sông Hương - dòng sông thơ mộng chảy qua thành phố Huế",
+      "en": "Perfume River - scenic river flowing through Hue city"
+    },
+    "tags": [
+      "hue",
+      "perfume river",
+      "river",
+      "vietnam"
+    ],
+    "category": "natural",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_026",
+    "image_path": "images/hue/hue_026.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Chùa Thiên Mụ - cảnh chùa dưới ánh hoàng hôn",
+      "en": "Thien Mu Pagoda - pagoda at sunset"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "pagoda",
+      "sunset",
+      "vietnam"
+    ],
+    "category": "religious",
+    "time_taken": "evening"
+  },
+  {
+    "image_id": "hue_028",
+    "image_path": "images/hue/hue_028.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Lăng Khải Định - lăng tẩm kiến trúc độc đáo ở Huế",
+      "en": "Khai Dinh Tomb - unique architectural mausoleum in Hue"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "mausoleum",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_029",
+    "image_path": "images/hue/hue_029.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Lăng Khải Định - kiến trúc tinh xảo",
+      "en": "Khai Dinh Tomb - intricate architecture"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "mausoleum",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_040",
+    "image_path": "images/hue/hue_040.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Minh Mạng",
+    "captions": {
+      "vi": "Toàn cảnh Lăng Minh Mạng với hồ nước xanh và cây xanh bao quanh",
+      "en": "Aerial view of Minh Mang Tomb surrounded by green lakes and trees"
+    },
+    "tags": [
+      "hue",
+      "minh mang tomb",
+      "aerial view",
+      "historical site",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_041",
+    "image_path": "images/hue/hue_041.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Khung cảnh mờ sương của Đại Nội Huế nhìn từ trên cao",
+      "en": "Misty aerial view of the Imperial City of Hue"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "aerial photo",
+      "mist",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "hue_042",
+    "image_path": "images/hue/hue_042.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cố Đô Huế",
+    "captions": {
+      "vi": "Poster quảng cáo du lịch Huế với hình ảnh Cố Đô Huế",
+      "en": "Travel poster of Hue featuring the Ancient Capital"
+    },
+    "tags": [
+      "hue",
+      "travel poster",
+      "ancient capital",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "poster",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_043",
+    "image_path": "images/hue/hue_043.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Khu vực ven sông Hương",
+    "captions": {
+      "vi": "Cảnh quan ven sông Hương với cây xanh và kiến trúc truyền thống",
+      "en": "Riverside view along Perfume River with greenery and traditional architecture"
+    },
+    "tags": [
+      "hue",
+      "perfume river",
+      "traditional architecture",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "landscape",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_044",
+    "image_path": "images/hue/hue_044.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Một du khách đang tham quan Lăng Tự Đức trong khuôn viên yên tĩnh",
+      "en": "A visitor walking in the tranquil grounds of Tu Duc Tomb"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "visitor",
+      "historical site",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_045",
+    "image_path": "images/hue/hue_045.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Tháp chùa Thiên Mụ nổi bật giữa bầu trời xanh và cây cối",
+      "en": "The iconic Thien Mu Pagoda tower standing against blue sky and trees"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "pagoda tower",
+      "religious site",
+      "vietnam"
+    ],
+    "category": "religious",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_046",
+    "image_path": "images/hue/hue_046.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Gia Long",
+    "captions": {
+      "vi": "Kiến trúc cổ kính của Lăng Gia Long nhìn qua tán lá xanh",
+      "en": "Ancient architecture of Gia Long Tomb viewed through green leaves"
+    },
+    "tags": [
+      "hue",
+      "gia long tomb",
+      "historical architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_047",
+    "image_path": "images/hue/hue_047.png",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Toàn cảnh Đại Nội Huế nhìn từ trên cao với hồ nước bao quanh",
+      "en": "Aerial panoramic view of the Imperial City of Hue surrounded by moat"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "aerial view",
+      "historical site",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_049",
+    "image_path": "images/hue/hue_049.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Bến thuyền trên sông Hương với tháp chùa Thiên Mụ phía xa",
+      "en": "Boat dock on Perfume River with Thien Mu Pagoda tower in background"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "perfume river",
+      "boat dock",
+      "vietnam"
+    ],
+    "category": "landscape",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_050",
+    "image_path": "images/hue/hue_050.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cầu Tràng Tiền",
+    "captions": {
+      "vi": "Cầu Tràng Tiền lung linh ánh đèn nhiều màu sắc vào ban đêm",
+      "en": "Trang Tien Bridge illuminated with colorful lights at night"
+    },
+    "tags": [
+      "hue",
+      "trang tien bridge",
+      "night",
+      "lights",
+      "vietnam"
+    ],
+    "category": "landscape",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hue_051",
+    "image_path": "images/hue/hue_051.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Cung điện Đại Nội Huế được chiếu sáng lung linh vào ban đêm",
+      "en": "Imperial Palace of Hue brightly lit at night"
+    },
+    "tags": [
+      "hue",
+      "imperial palace",
+      "night",
+      "lighting",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "hue_053",
+    "image_path": "images/hue/hue_053.png",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Khung cảnh Lăng Tự Đức vào ban ngày với khách tham quan và cây xanh",
+      "en": "Daytime view of Tu Duc Tomb with visitors and greenery"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "daytime",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_054",
+    "image_path": "images/hue/hue_054.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hồ bán nguyệt trong Đại Nội Huế",
+    "captions": {
+      "vi": "Hồ bán nguyệt phản chiếu kiến trúc truyền thống trong Đại Nội Huế",
+      "en": "Half-moon lake reflecting traditional architecture in the Imperial City of Hue"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "half moon lake",
+      "reflection",
+      "vietnam"
+    ],
+    "category": "landscape",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_055",
+    "image_path": "images/hue/hue_055.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cổng Ngọ Môn",
+    "captions": {
+      "vi": "Cổng Ngọ Môn - lối vào chính của Đại Nội Huế",
+      "en": "Ngo Mon Gate - main entrance to the Imperial City of Hue"
+    },
+    "tags": [
+      "hue",
+      "ngo mon gate",
+      "imperial city",
+      "historical gate",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_056",
+    "image_path": "images/hue/hue_056.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phố cổ Hội An (gần Huế)",
+    "captions": {
+      "vi": "Phố cổ Hội An với dòng sông yên bình và thuyền nhỏ",
+      "en": "Ancient town of Hoi An with peaceful river and small boats"
+    },
+    "tags": [
+      "hoi an",
+      "ancient town",
+      "river",
+      "boats",
+      "vietnam"
+    ],
+    "category": "cultural",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_057",
+    "image_path": "images/hue/hue_057.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Lăng Tự Đức với lối đi qua hồ và cây xanh mát",
+      "en": "Tu Duc Tomb with walkway over pond and lush greenery"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "pond",
+      "greenery",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_058",
+    "image_path": "images/hue/hue_058.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Kinh thành Huế",
+    "captions": {
+      "vi": "Toàn cảnh Kinh thành Huế nhìn từ trên cao vào buổi sáng",
+      "en": "Aerial view of the Hue Citadel in the morning"
+    },
+    "tags": [
+      "hue",
+      "citadel",
+      "aerial view",
+      "morning",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "hue_059",
+    "image_path": "images/hue/hue_059.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cầu ngói Thanh Toàn",
+    "captions": {
+      "vi": "Cầu ngói Thanh Toàn cổ kính nằm giữa thiên nhiên yên bình",
+      "en": "Ancient Thanh Toan wooden bridge nestled in peaceful nature"
+    },
+    "tags": [
+      "hue",
+      "thanh toan bridge",
+      "ancient bridge",
+      "nature",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_060",
+    "image_path": "images/hue/hue_060.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Minh Mạng",
+    "captions": {
+      "vi": "Toàn cảnh Lăng Minh Mạng nhìn từ trên cao với khuôn viên cây xanh rộng lớn",
+      "en": "Aerial view of Minh Mang Tomb with large green surroundings"
+    },
+    "tags": [
+      "hue",
+      "minh mang tomb",
+      "aerial view",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_061",
+    "image_path": "images/hue/hue_061.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Kiến trúc cổ kính của Đại Nội Huế với tường thành và hào nước phản chiếu",
+      "en": "Ancient architecture of Hue Imperial City with walls and reflective moat"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "moat",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_062",
+    "image_path": "images/hue/hue_062.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cầu Vàng Bà Nà Hills",
+    "captions": {
+      "vi": "Cầu Vàng nổi tiếng với hai bàn tay đá khổng lồ ôm lấy cầu trên núi Bà Nà",
+      "en": "Golden Bridge with giant stone hands holding the bridge on Ba Na Hills"
+    },
+    "tags": [
+      "da nang",
+      "golden bridge",
+      "ba na hills",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "tourist attraction",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_063",
+    "image_path": "images/hue/hue_063.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Kiến trúc độc đáo của Lăng Khải Định với bậc thang lên lăng mộ",
+      "en": "Unique architecture of Khai Dinh Tomb with stairway leading to the mausoleum"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "historical",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_064",
+    "image_path": "images/hue/hue_064.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Tự Đức",
+    "captions": {
+      "vi": "Toàn cảnh Lăng Tự Đức với lối đi chính và khuôn viên cây xanh",
+      "en": "Overview of Tu Duc Tomb with main pathway and green surroundings"
+    },
+    "tags": [
+      "hue",
+      "tu duc tomb",
+      "historical",
+      "garden",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_065",
+    "image_path": "images/hue/hue_065.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cổng Ngọ Môn",
+    "captions": {
+      "vi": "Cổng Ngọ Môn - cửa chính vào Đại Nội Huế với kiến trúc truyền thống",
+      "en": "Ngo Mon Gate - main entrance to Hue Imperial City with traditional architecture"
+    },
+    "tags": [
+      "hue",
+      "ngo mon gate",
+      "imperial city",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_066",
+    "image_path": "images/hue/hue_066.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Nhóm người mặc trang phục truyền thống trong khuôn viên Đại Nội Huế",
+      "en": "Group wearing traditional costumes in the grounds of Hue Imperial City"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "traditional costume",
+      "culture",
+      "vietnam"
+    ],
+    "category": "cultural",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_067",
+    "image_path": "images/hue/hue_067.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Bảo tàng Cổ vật Cố đô Huế",
+    "captions": {
+      "vi": "Kiến trúc cổ kính của Bảo tàng Cổ vật Cố đô Huế với màu đỏ đặc trưng",
+      "en": "Ancient architecture of Hue Museum of Royal Antiquities with distinctive red color"
+    },
+    "tags": [
+      "hue",
+      "museum",
+      "historical",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "museum",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_068",
+    "image_path": "images/hue/hue_068.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Cổng vào Lăng Khải Định với kiến trúc điêu khắc tinh xảo",
+      "en": "Entrance gate of Khai Dinh Tomb with intricate sculptures"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "historical",
+      "sculpture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_069",
+    "image_path": "images/hue/hue_069.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đại Nội Huế",
+    "captions": {
+      "vi": "Lối đi dẫn vào Đại Nội Huế với cờ đỏ sao vàng tung bay",
+      "en": "Pathway leading into Hue Imperial City with red flag and yellow star waving"
+    },
+    "tags": [
+      "hue",
+      "imperial city",
+      "flag",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_070",
+    "image_path": "images/hue/hue_070.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Các món chè Huế",
+    "captions": {
+      "vi": "Nhiều nồi chè truyền thống với các loại nguyên liệu đa dạng bày trên bàn",
+      "en": "Various traditional Hue sweet soups displayed in pots with diverse ingredients"
+    },
+    "tags": [
+      "hue",
+      "che",
+      "traditional food",
+      "dessert",
+      "vietnam"
+    ],
+    "category": "food",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_071",
+    "image_path": "images/hue/hue_071.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Bậc thang dẫn lên Lăng Khải Định với kiến trúc đá độc đáo",
+      "en": "Stone staircase leading to Khai Dinh Tomb with unique architecture"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "staircase",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_073",
+    "image_path": "images/hue/hue_073.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Phong cảnh làng quê Huế",
+    "captions": {
+      "vi": "Cảnh đồng quê yên bình với cây cổ thụ và cô gái mặc áo dài trắng ngồi bên gốc cây",
+      "en": "Peaceful countryside scene with old tree and a girl in white traditional dress sitting by the tree"
+    },
+    "tags": [
+      "hue",
+      "countryside",
+      "traditional dress",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_074",
+    "image_path": "images/hue/hue_074.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Chùa Thiên Mụ",
+    "captions": {
+      "vi": "Toàn cảnh chùa Thiên Mụ với khuôn viên rộng lớn và tháp Phước Duyên",
+      "en": "Overview of Thien Mu Pagoda with large grounds and Phuoc Duyen tower"
+    },
+    "tags": [
+      "hue",
+      "thien mu pagoda",
+      "temple",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "hue_075",
+    "image_path": "images/hue/hue_075.jpg",
+    "location": {
+      "city": "Huế",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lăng Khải Định",
+    "captions": {
+      "vi": "Lối vào chính của Lăng Khải Định với kiến trúc đá chạm khắc tinh xảo",
+      "en": "Main entrance of Khai Dinh Tomb with intricate stone carvings"
+    },
+    "tags": [
+      "hue",
+      "khai dinh tomb",
+      "entrance",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_001",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Đồi chè Mộc Châu với các luống chè được cắt tỉa thành hình trái tim, có nhóm người mặc áo đỏ đứng bên trong hình trái tim.",
+      "en": "Moc Chau tea hill with tea rows trimmed into heart shapes, a group of people in red shirts standing inside the heart."
+    },
+    "tags": ["moc chau", "tea hill", "heart shape", "group", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_002",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Đồi chè Mộc Châu với các luống chè được cắt tỉa thành hình trái tim và chữ 'Moc Chau I Love You' rõ ràng trên đồi chè.",
+      "en": "Moc Chau tea hill with tea rows trimmed into heart shapes and the words 'Moc Chau I Love You' clearly shaped on the hill."
+    },
+    "tags": ["moc chau", "tea hill", "heart shape", "text", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_003",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Cặp đôi chụp ảnh cưới trong khu vực đồi chè hình trái tim tại Mộc Châu.",
+      "en": "Wedding couple taking photos inside the heart-shaped tea field area in Moc Chau."
+    },
+    "tags": ["moc chau", "tea hill", "heart shape", "wedding", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_004",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Khung cảnh rộng lớn đồi chè Mộc Châu với các luống chè được cắt tỉa hình trái tim.",
+      "en": "Wide view of Moc Chau tea hills with tea rows trimmed into heart shapes."
+    },
+    "tags": ["moc chau", "tea hill", "heart shape", "landscape", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_005",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Những người nông dân đang thu hoạch chè trên đồi chè xanh mướt tại Mộc Châu.",
+      "en": "Farmers harvesting tea on lush green tea hills in Moc Chau."
+    },
+    "tags": ["moc chau", "tea hill", "harvesting", "farmers", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_006",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Đồi chè Mộc Châu với hình trái tim rõ nét trên nền núi non phía xa.",
+      "en": "Moc Chau tea hills with distinct heart shape with mountain background."
+    },
+    "tags": ["moc chau", "tea hill", "heart shape", "mountain", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_007",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Một người đứng trên cầu ngắm cảnh đồi chè Mộc Châu với chữ 'Đồi chè Mộc Châu' phía sau.",
+      "en": "A person standing on a bridge overlooking Moc Chau tea hills with 'Đồi chè Mộc Châu' sign in the background."
+    },
+    "tags": ["moc chau", "tea hill", "viewpoint", "sign", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_008",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Cánh đồng hoa cải trắng trải dài tại Mộc Châu với núi non phía xa.",
+      "en": "White mustard flower fields stretching in Moc Chau with distant mountains."
+    },
+    "tags": ["moc chau", "flower field", "mustard flower", "landscape", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_009",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Góc nhìn tổng thể đồi chè Mộc Châu với các luống chè được cắt tỉa thành hình trái tim.",
+      "en": "Panoramic view of Moc Chau tea hills with heart-shaped tea rows."
+    },
+    "tags": ["moc chau", "tea hill", "heart shape", "panorama", "vietnam"],
+    "category": "nature"
+  },{
+    "image_id": "mocchau_010",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Toàn cảnh đồi chè Mộc Châu với các luống chè xanh mướt, có hình trái tim nhỏ ở trung tâm.",
+      "en": "Panoramic view of Moc Chau tea hills with lush green tea rows and a small heart shape at the center."
+    },
+    "tags": ["moc chau", "tea field", "heart shape", "panorama", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_011",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Nhóm người mặc áo đỏ tạo dáng trên con đường trong khu đồi chè hình trái tim tại Mộc Châu.",
+      "en": "Group of people in red shirts posing on the path inside the heart-shaped tea field in Moc Chau."
+    },
+    "tags": ["moc chau", "tea field", "heart shape", "group", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_012",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Người phụ nữ mặc trang phục dân tộc đứng trong khu vực đồi chè hình trái tim.",
+      "en": "Woman in ethnic costume standing inside the heart-shaped tea hill area."
+    },
+    "tags": ["moc chau", "tea field", "heart shape", "ethnic costume", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_013",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Đồi chè Mộc Châu với các luống chè được cắt tỉa thành hình trái tim rõ nét.",
+      "en": "Moc Chau tea hills with clearly trimmed heart-shaped tea rows."
+    },
+    "tags": ["moc chau", "tea field", "heart shape", "landscape", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_014",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Cặp đôi tạo dáng trong khu đồi chè Mộc Châu với chữ 'Moc Chau' được cắt tỉa trên đồi.",
+      "en": "Couple posing in Moc Chau tea hill with 'Moc Chau' shaped on the hill."
+    },
+    "tags": ["moc chau", "tea field", "heart shape", "couple", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_015",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Phụ nữ đứng giữa đồi chè xanh mướt dưới bầu trời xanh trong và núi non xa xa.",
+      "en": "Woman standing in lush green tea hills under blue sky with distant mountains."
+    },
+    "tags": ["moc chau", "tea field", "landscape", "nature", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_016",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Thung lũng mận Nà Ka nổi tiếng với những cây mận trắng hoa nở rộ.",
+      "en": "Na Ka plum valley famous for blooming white plum blossom trees."
+    },
+    "tags": ["moc chau", "plum valley", "flowers", "nature", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_017",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Cánh đồng hoa mận trắng nở rộ tại thung lũng Nà Ka, Mộc Châu.",
+      "en": "White plum flower fields blooming in Na Ka valley, Moc Chau."
+    },
+    "tags": ["moc chau", "plum flowers", "valley", "nature", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_018",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Trẻ em dân tộc chơi đùa dưới những cây hoa mận trắng tại Mộc Châu.",
+      "en": "Ethnic children playing under white plum blossom trees in Moc Chau."
+    },
+    "tags": ["moc chau", "children", "plum flowers", "ethnic", "vietnam"],
+    "category": "culture"
+  },
+  {
+    "image_id": "mocchau_019",
+    "location": {
+      "region": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "description": {
+      "vi": "Hai người bạn đứng giữa đồi chè xanh mướt tại Mộc Châu với núi non phía xa.",
+      "en": "Two friends standing in lush green tea hills in Moc Chau with mountains in the background."
+    },
+    "tags": ["moc chau", "tea field", "friends", "landscape", "vietnam"],
+    "category": "nature"
+  },
+  {
+    "image_id": "mocchau_020",
+    "image_path": "images/mocchau/mocchau_020.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đồi chè trái tim Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè hình trái tim xanh mướt dưới bầu trời xanh tại Mộc Châu",
+      "en": "Heart-shaped tea hill with lush greenery under blue sky in Moc Chau"
+    },
+    "tags": [
+      "moc chau",
+      "tea hill",
+      "heart shape",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_021",
+    "image_path": "images/mocchau/mocchau_021.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Toàn cảnh đồi chè xanh mướt với nhà cửa và núi non phía xa",
+      "en": "Panoramic view of lush green tea hills with houses and distant mountains"
+    },
+    "tags": [
+      "moc chau",
+      "tea hill",
+      "landscape",
+      "vietnam",
+      "nature"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_022",
+    "image_path": "images/mocchau/mocchau_022.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Vườn hoa trái tim Mộc Châu",
+    "captions": {
+      "vi": "Vườn hoa nhiều màu sắc tạo hình trái tim giữa núi xanh tươi",
+      "en": "Colorful flower garden shaped like a heart amid green mountains"
+    },
+    "tags": [
+      "moc chau",
+      "flower garden",
+      "heart shape",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_023",
+    "image_path": "images/mocchau/mocchau_023.png",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Thác nước Mộc Châu",
+    "captions": {
+      "vi": "Thác nước trong xanh với cảnh vật thiên nhiên xung quanh",
+      "en": "Clear waterfall surrounded by natural scenery"
+    },
+    "tags": [
+      "moc chau",
+      "waterfall",
+      "nature",
+      "vietnam",
+      "scenery"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_024",
+    "image_path": "images/mocchau/mocchau_024.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Người phụ nữ mặc váy trắng đứng trên đồi chè xanh mướt",
+      "en": "Woman in white dress standing on lush green tea hill"
+    },
+    "tags": [
+      "moc chau",
+      "tea hill",
+      "nature",
+      "vietnam",
+      "portrait"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_025",
+    "image_path": "images/mocchau/mocchau_025.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cánh đồng hoa trắng Mộc Châu",
+    "captions": {
+      "vi": "Người đi xe máy trên con đường nhỏ giữa cánh đồng hoa trắng rực rỡ",
+      "en": "Person riding motorbike on small path through vibrant white flower field"
+    },
+    "tags": [
+      "moc chau",
+      "flower field",
+      "white flowers",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_026",
+    "image_path": "images/mocchau/mocchau_026.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Thung lũng hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Thung lũng hoa mận trắng nở rộ với nhà cửa xen kẽ",
+      "en": "Valley of blooming white plum flowers with scattered houses"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "valley",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_027",
+    "image_path": "images/mocchau/mocchau_027.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Toàn cảnh đồi chè Mộc Châu dưới ánh sáng vàng buổi sáng",
+      "en": "Panoramic view of Moc Chau tea hills under golden morning light"
+    },
+    "tags": [
+      "moc chau",
+      "tea hill",
+      "morning light",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "mocchau_028",
+    "image_path": "images/mocchau/mocchau_028.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè xanh mướt với các luống chè được cắt tỉa gọn gàng",
+      "en": "Lush green tea hills with neatly trimmed rows"
+    },
+    "tags": [
+      "moc chau",
+      "tea hill",
+      "greenery",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_029",
+    "image_path": "images/mocchau/mocchau_029.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Lễ hội thung lũng mận Mộc Châu",
+    "captions": {
+      "vi": "Lễ hội đông vui tại thung lũng mận với nhiều người tham gia",
+      "en": "Lively festival at plum blossom valley with many participants"
+    },
+    "tags": [
+      "moc chau",
+      "festival",
+      "plum blossom",
+      "nature",
+      "vietnam"
+    ],
+    "category": "event",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_030",
+    "image_path": "images/mocchau/mocchau_030.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Rừng thông Bản Áng",
+    "captions": {
+      "vi": "Vòng quay lớn trong khu rừng thông Bản Áng với núi non bao quanh",
+      "en": "Large Ferris wheel in Ban Ang pine forest surrounded by mountains"
+    },
+    "tags": [
+      "moc chau",
+      "ban ang",
+      "pine forest",
+      "ferris wheel",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_031",
+    "image_path": "images/mocchau/mocchau_031.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cánh đồng hoa cải trắng Mộc Châu",
+    "captions": {
+      "vi": "Nhà tranh bên cánh đồng hoa cải trắng nở rộ dưới ánh sáng dịu nhẹ",
+      "en": "Thatched house beside blooming white mustard flower field under soft light"
+    },
+    "tags": [
+      "moc chau",
+      "white mustard flower",
+      "countryside",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "mocchau_032",
+    "image_path": "images/mocchau/mocchau_032.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Happy Land Mộc Châu",
+    "captions": {
+      "vi": "Khu vườn Happy Land với hoa đỏ rực rỡ và núi non phía xa",
+      "en": "Happy Land garden with vibrant red flowers and distant mountains"
+    },
+    "tags": [
+      "moc chau",
+      "happy land",
+      "garden",
+      "flowers",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_033",
+    "image_path": "images/mocchau/mocchau_033.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Thác nước Mộc Châu",
+    "captions": {
+      "vi": "Thác nước tự nhiên chảy qua các tầng đá với cây xanh bao quanh",
+      "en": "Natural waterfall flowing over rock terraces surrounded by greenery"
+    },
+    "tags": [
+      "moc chau",
+      "waterfall",
+      "nature",
+      "vietnam",
+      "scenery"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_034",
+    "image_path": "images/mocchau/mocchau_034.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Khu nghỉ dưỡng Rừng Thông Bản Áng",
+    "captions": {
+      "vi": "Những căn nhà nghỉ nhỏ xinh nằm giữa rừng thông xanh mướt",
+      "en": "Cozy cottages nestled within lush green pine forest"
+    },
+    "tags": [
+      "moc chau",
+      "ban ang",
+      "pine forest",
+      "resort",
+      "nature",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_035",
+    "image_path": "images/mocchau/mocchau_035.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Happy Land Mộc Châu",
+    "captions": {
+      "vi": "Cối xay gió tại khu du lịch Happy Land với du khách tham quan",
+      "en": "Windmill at Happy Land tourist area with visitors around"
+    },
+    "tags": [
+      "moc chau",
+      "happy land",
+      "windmill",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_036",
+    "image_path": "images/mocchau/mocchau_036.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cánh đồng hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Cánh đồng hoa mận trắng tinh khôi với núi non phía xa",
+      "en": "Pure white plum blossom field with distant mountains"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "flower field",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_037",
+    "image_path": "images/mocchau/mocchau_037.png",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Top 12 địa điểm du lịch Mộc Châu",
+    "captions": {
+      "vi": "Cảnh đẹp Mộc Châu với thác nước và núi non trong top 12 địa điểm du lịch",
+      "en": "Beautiful Moc Chau scenery with waterfall and mountains in top 12 tourist spots"
+    },
+    "tags": [
+      "moc chau",
+      "tourism",
+      "waterfall",
+      "mountains",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_038",
+    "image_path": "images/mocchau/mocchau_038.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cánh đồng hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Nhà tranh nằm giữa cánh đồng hoa mận trắng nở rộ",
+      "en": "Thatched house amidst blooming white plum blossom field"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "flower field",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_039",
+    "image_path": "images/mocchau/mocchau_039.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cánh đồng hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Vườn hoa mận trắng trải dài khắp thung lũng dưới ánh nắng",
+      "en": "White plum blossom garden stretching across valley under sunlight"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "flower field",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_040",
+    "image_path": "images/mocchau/mocchau_040.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Cánh đồng hoa cải Mộc Châu",
+    "captions": {
+      "vi": "Cánh đồng hoa cải trắng trải dài dưới chân núi xanh mướt",
+      "en": "White mustard flower field stretching beneath green mountains"
+    },
+    "tags": [
+      "moc chau",
+      "mustard flower",
+      "flower field",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_041",
+    "image_path": "images/mocchau/mocchau_041.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Toàn cảnh thung lũng Mộc Châu",
+    "captions": {
+      "vi": "Toàn cảnh thung lũng với các cột điện cao thế và núi non xa xa",
+      "en": "Panoramic valley view with high voltage towers and distant mountains"
+    },
+    "tags": [
+      "moc chau",
+      "valley",
+      "mountains",
+      "electric towers",
+      "vietnam"
+    ],
+    "category": "landscape",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_042",
+    "image_path": "images/mocchau/mocchau_042.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Vườn hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Người đứng giữa vườn hoa mận trắng nở rộ",
+      "en": "Person standing among blooming white plum blossom garden"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "flower garden",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_043",
+    "image_path": "images/mocchau/mocchau_043.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hoa đào Mộc Châu",
+    "captions": {
+      "vi": "Trẻ em và người lớn chơi đùa dưới những cây hoa đào hồng",
+      "en": "Children and adults playing under pink peach blossom trees"
+    },
+    "tags": [
+      "moc chau",
+      "peach blossom",
+      "flower",
+      "people",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_044",
+    "image_path": "images/mocchau/mocchau_044.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Hang động Mộc Châu",
+    "captions": {
+      "vi": "Bên trong hang động với những măng đá độc đáo",
+      "en": "Inside cave with unique stalactites and formations"
+    },
+    "tags": [
+      "moc chau",
+      "cave",
+      "stalactites",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_045",
+    "image_path": "images/mocchau/mocchau_045.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đèo Mộc Châu",
+    "captions": {
+      "vi": "Đèo quanh co với núi non xanh tươi bao quanh",
+      "en": "Winding mountain pass surrounded by lush green hills"
+    },
+    "tags": [
+      "moc chau",
+      "mountain pass",
+      "scenery",
+      "vietnam"
+    ],
+    "category": "landscape",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_046",
+    "image_path": "images/mocchau/mocchau_046.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Nông dân hái chè trên đồi chè xanh mướt theo hình chữ S",
+      "en": "Farmers picking tea leaves on lush green tea hills shaped like letter S"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "farming",
+      "nature",
+      "vietnam"
+    ],
+    "category": "agriculture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_047",
+    "image_path": "images/mocchau/mocchau_047.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Vườn hoa mận Mộc Châu từ trên cao",
+    "captions": {
+      "vi": "Toàn cảnh vườn hoa mận trắng tinh khôi nhìn từ trên cao",
+      "en": "Aerial view of pure white plum blossom garden"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "aerial view",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_048",
+    "image_path": "images/mocchau/mocchau_048.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Du lịch sinh thái Mộc Châu",
+    "captions": {
+      "vi": "Khách du lịch đi bộ dưới những cây hoa mận nở rộ",
+      "en": "Tourist walking under blooming plum blossom trees"
+    },
+    "tags": [
+      "moc chau",
+      "ecotourism",
+      "plum blossom",
+      "nature",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_049",
+    "image_path": "images/mocchau/mocchau_049.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam"
+    },
+    "landmark": "Thác nước Mộc Châu",
+    "captions": {
+      "vi": "Thác nước hùng vĩ chảy xuống hồ nước xanh biếc",
+      "en": "Majestic waterfall flowing into emerald green pool"
+    },
+    "tags": [
+      "moc chau",
+      "waterfall",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_050",
+    "image_path": "images/mocchau/mocchau_050.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Cánh đồng hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Cánh đồng hoa mận trắng trải dài khắp thung lũng với con đường uốn lượn",
+      "en": "White plum blossom fields stretching across valley with winding road"
+    },
+    "tags": [
+      "moc chau",
+      "plum blossom",
+      "white flowers",
+      "valley",
+      "road",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_051",
+    "image_path": "images/mocchau/mocchau_051.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Khu nghỉ dưỡng sinh thái Mộc Châu",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng với thác nước nhân tạo và hồ bậc thang giữa rừng thông",
+      "en": "Eco-resort with artificial waterfall and terraced ponds amid pine forest"
+    },
+    "tags": [
+      "moc chau",
+      "resort",
+      "waterfall",
+      "terraced pools",
+      "accommodation",
+      "nature",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_052",
+    "image_path": "images/mocchau/mocchau_052.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Thung lũng xanh Mộc Châu",
+    "captions": {
+      "vi": "Thung lũng xanh mướt với hoa đỏ rực rỡ ở tiền cảnh và núi non xa xa",
+      "en": "Lush green valley with vibrant red flowers in foreground and distant mountains"
+    },
+    "tags": [
+      "moc chau",
+      "valley",
+      "red flowers",
+      "green landscape",
+      "mountains",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_053",
+    "image_path": "images/mocchau/mocchau_053.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Happy Land Mộc Châu",
+    "captions": {
+      "vi": "Khu du lịch Happy Land với cánh đồng hoa đỏ và vàng rực rỡ dưới chân núi",
+      "en": "Happy Land tourist area with vibrant red and yellow flower fields beneath mountains"
+    },
+    "tags": [
+      "moc chau",
+      "happy land",
+      "flower field",
+      "tourism",
+      "red flowers",
+      "yellow flowers",
+      "vietnam"
+    ],
+    "category": "tourism",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_054",
+    "image_path": "images/mocchau/mocchau_054.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Khu cắm trại hoa mận Mộc Châu",
+    "captions": {
+      "vi": "Khu vực cắm trại dưới tán hoa mận với núi sương mù phía xa",
+      "en": "Camping area under plum blossom canopy with misty mountains in background"
+    },
+    "tags": [
+      "moc chau",
+      "camping",
+      "plum blossom",
+      "tents",
+      "mist",
+      "mountains",
+      "outdoor",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "mocchau_055",
+    "image_path": "images/mocchau/mocchau_055.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Công viên khủng long Mộc Châu",
+    "captions": {
+      "vi": "Công viên chủ đề với mô hình khủng long khổng lồ thu hút đông du khách",
+      "en": "Theme park with giant dinosaur models attracting crowds of visitors"
+    },
+    "tags": [
+      "moc chau",
+      "dinosaur park",
+      "theme park",
+      "tourism",
+      "family",
+      "entertainment",
+      "vietnam"
+    ],
+    "category": "entertainment",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_056",
+    "image_path": "images/mocchau/mocchau_056.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Thung lũng hoa mận trắng Mộc Châu",
+    "captions": {
+      "vi": "Thung lũng ngập tràn hoa mận trắng tinh khôi như tuyết phủ",
+      "en": "Valley overflowing with pure white plum blossoms like snow coverage"
+    },
+    "tags": [
+      "moc chau",
+      "plum valley",
+      "white blossoms",
+      "flowers",
+      "nature",
+      "scenic",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_057",
+    "image_path": "images/mocchau/mocchau_057.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Du khách thỏa sức tận hưởng vẻ đẹp đồi chè xanh mướt Mộc Châu",
+      "en": "Tourist enjoying the beauty of lush green Moc Chau tea hills"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "tourism",
+      "green landscape",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_058",
+    "image_path": "images/mocchau/mocchau_058.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè sương mù Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè Mộc Châu trong sương mù mờ ảo tạo nên khung cảnh thơ mộng",
+      "en": "Moc Chau tea hills in ethereal mist creating dreamy landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea hills",
+      "mist",
+      "fog",
+      "atmospheric",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "morning"
+  },
+  {
+    "image_id": "mocchau_059",
+    "image_path": "images/mocchau/mocchau_059.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè hình trái tim Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè được cắt tỉa thành hình trái tim độc đáo giữa cảnh quan xanh mướt",
+      "en": "Tea hills trimmed into unique heart shape amid lush green landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "heart shape",
+      "artistic",
+      "green tea",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
   }
+
+
 ]
