@@ -241,77 +241,6 @@ def create_sample_dataset():
     
     print("Sample dataset created: dataset_metadata.json")
 
-def download_unsplash_images(query, count=10, api_key=None):
-    """
-    Download ảnh từ Unsplash API
-    
-    Args:
-        query: Từ khóa search
-        count: Số lượng ảnh
-        api_key: Unsplash API key
-    """
-    if not api_key:
-        print("Cần Unsplash API key. Đăng ký tại: https://unsplash.com/developers")
-        return []
-    
-    url = "https://api.unsplash.com/search/photos"
-    params = {
-        "query": query,
-        "per_page": min(count, 30),  # Max 30 per request
-        "client_id": api_key
-    }
-    
-    try:
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        data = response.json()
-        
-        images = []
-        for idx, photo in enumerate(data['results']):
-            # Download image
-            img_url = photo['urls']['regular']
-            img_response = requests.get(img_url)
-            
-            if img_response.status_code == 200:
-                # Tạo filename
-                filename = f"{query.replace(' ', '_')}_{idx+1}.jpg"
-                filepath = os.path.join("images", filename)
-                
-                # Tạo folder nếu chưa có
-                os.makedirs("images", exist_ok=True)
-                
-                # Lưu ảnh
-                with open(filepath, 'wb') as f:
-                    f.write(img_response.content)
-                
-                # Tạo metadata
-                metadata = {
-                    "image_id": f"{query}_{idx+1}",
-                    "image_path": filepath,
-                    "location": {
-                        "city": query.title(),
-                        "country": "Vietnam",
-                        "region": "Unknown"
-                    },
-                    "landmark": photo.get('description', ''),
-                    "captions": {
-                        "vi": photo.get('alt_description', ''),
-                        "en": photo.get('description', photo.get('alt_description', ''))
-                    },
-                    "tags": [query, query.lower()],
-                    "category": "tourism",
-                    "time_taken": "unknown",
-                    "source": "unsplash",
-                    "photographer": photo['user']['name']
-                }
-                images.append(metadata)
-                print(f"Downloaded: {filename}")
-        
-        return images
-        
-    except requests.RequestException as e:
-        print(f"Error downloading from Unsplash: {e}")
-        return []
 
 # Demo usage
 if __name__ == "__main__":
@@ -319,13 +248,11 @@ if __name__ == "__main__":
     search_system = CLIPImageSearch()
     
     # Tạo sample dataset (hoặc load dataset có sẵn)
-    create_sample_dataset()
+    search_system.load_dataset("data/dataset_metadata.json")
     
-    # Load dataset
-    search_system.load_dataset('dataset_metadata.json')
     
     # Encode images (chỉ chạy 1 lần)
-    search_system.encode_images('image_embeddings.pkl')
+    search_system.encode_images("models/image_embeddings.pkl")
     
     # Hoặc load embeddings đã có
     # search_system.load_embeddings('image_embeddings.pkl')
