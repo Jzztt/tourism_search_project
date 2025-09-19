@@ -1,0 +1,38 @@
+# Thư mục dữ liệu lớn hoặc kết quả tạm
+# /data/
+*.csv
+*.tsv
+*.xlsx
+
+# File hình ảnh, video, âm thanh
+# *.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+
+# Thư mục môi trường ảo Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# File log, cache, tạm
+*.log
+*.cache
+*.tmp
+
+# File cấu hình IDE
+.vscode/
+.idea/
+
+# File hệ điều hành
+.DS_Store
+Thumbs.db
+
+# File model, checkpoint
+*.h5
+*.pth
+*.pt
+*.ckpt
