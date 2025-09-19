@@ -403,7 +403,7 @@ class CustomImageSearchSystem:
         
         print(f"Model initialized with vocab size: {self.text_processor.vocab_size}")
     
-     def train(self, metadata_file, num_epochs=50, batch_size=16, learning_rate=0.001, save_path="custom_model.pth"):
+    def train(self, metadata_file, num_epochs=50, batch_size=16, learning_rate=0.001, save_path="custom_model.pth"):
         """
         Train model
         """
@@ -449,7 +449,7 @@ class CustomImageSearchSystem:
                 optimizer.step()
                 
                 epoch_loss += loss.item()
-                progress_bar.set_postfix({'loss': loss.item():.4f})
+                progress_bar.set_postfix({'loss': f"{loss.item():.4f}"})
             
             # Cập nhật learning rate
             scheduler.step()
@@ -696,53 +696,389 @@ def create_extended_sample_dataset():
     return sample_data
 
 # Main demo
+def split_tourism_dataset(metadata_file, train_ratio=0.8, random_state=42):
+    """
+    Split dataset thành train và test sets với stratified approach
+    """
+    with open(metadata_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Group by location for stratified split
+    location_groups = {}
+    errors = []
+    for item in data:
+        # Check city tồn tại
+        if "location" not in item or "city" not in item["location"]:
+            errors.append(item.get("image_id", "UNKNOWN_ID"))
+            continue  # bỏ qua item lỗi để không crash
+        
+        city = item["location"]["city"]
+        if city not in location_groups:
+            location_groups[city] = []
+        location_groups[city].append(item)
+    
+    # Nếu có lỗi -> báo ra màn hình
+    if errors:
+        print("\n⚠️ Các item bị thiếu 'city':")
+        for eid in errors:
+            print(f"- {eid}")
+    
+    train_data = []
+    test_data = []
+    
+    print("\nDataset Distribution:")
+    print("-" * 40)
+    
+    # Split each location group
+    for city, items in location_groups.items():
+        np.random.seed(random_state)
+        np.random.shuffle(items)
+        
+        split_idx = max(1, int(len(items) * train_ratio))  # Ensure at least 1 item in train
+        
+        city_train = items[:split_idx]
+        city_test = items[split_idx:] if split_idx < len(items) else [items[-1]]  # Ensure test has data
+        
+        train_data.extend(city_train)
+        test_data.extend(city_test)
+        
+        print(f"{city:12}: {len(items):3} total | {len(city_train):3} train | {len(city_test):3} test")
+    
+    print("-" * 40)
+    print(f"{'Total':12}: {len(data):3} total | {len(train_data):3} train | {len(test_data):3} test")
+    
+    # Create data directory if not exists
+    os.makedirs('data', exist_ok=True)
+    
+    # Save splits
+    with open('data/train_metadata.json', 'w', encoding='utf-8') as f:
+        json.dump(train_data, f, ensure_ascii=False, indent=2)
+    
+    with open('data/test_metadata.json', 'w', encoding='utf-8') as f:
+        json.dump(test_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"\nDataset split saved:")
+    print(f"- Train: data/train_metadata.json ({len(train_data)} images)")
+    print(f"- Test:  data/test_metadata.json ({len(test_data)} images)")
+    
+    return train_data, test_data
+
+class ImprovedCustomImageSearchSystem(CustomImageSearchSystem):
+    """
+    Enhanced version với train/test split và better evaluation
+    """
+    
+    def train_with_validation(self, train_metadata_file, test_metadata_file, 
+                            num_epochs=50, batch_size=16, learning_rate=0.001, 
+                            save_path="custom_model.pth", patience=10):
+        """
+        Train model với validation và early stopping
+        """
+        # Data transforms
+        transform = transforms.Compose([
+            transforms.Resize((224, 224)),
+            transforms.ToTensor(),
+            transforms.Normalize(mean=[0.485, 0.456, 0.406], 
+                               std=[0.229, 0.224, 0.225])
+        ])
+        
+        # Train và Test datasets
+        train_dataset = TourismDataset(train_metadata_file, self.text_processor, transform)
+        test_dataset = TourismDataset(test_metadata_file, self.text_processor, transform)
+        
+        train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=2)
+        test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, num_workers=2)
+        
+        # Optimizer
+        optimizer = optim.Adam(self.model.parameters(), lr=learning_rate, weight_decay=1e-4)
+        scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=15, gamma=0.1)
+        
+        # Training history
+        train_losses = []
+        test_losses = []
+        best_test_loss = float('inf')
+        patience_counter = 0
+        
+        print(f"Starting training with {len(train_dataset)} train and {len(test_dataset)} test pairs")
+        
+        for epoch in range(num_epochs):
+            # Training phase
+            self.model.train()
+            train_epoch_loss = 0
+            train_progress = tqdm(train_loader, desc=f"Epoch {epoch+1}/{num_epochs} [Train]")
+            
+            for batch in train_progress:
+                images = batch['image'].to(self.device)
+                texts = batch['text'].to(self.device)
+                labels = batch['label'].to(self.device)
+                
+                optimizer.zero_grad()
+                
+                # Forward pass
+                text_features, image_features = self.model(images, texts)
+                loss = contrastive_loss(text_features, image_features, labels)
+                
+                # Backward pass
+                loss.backward()
+                optimizer.step()
+                
+                train_epoch_loss += loss.item()
+                train_progress.set_postfix({'loss': f"{loss.item():.4f}"})
+            
+            # Validation phase
+            self.model.eval()
+            test_epoch_loss = 0
+            test_progress = tqdm(test_loader, desc=f"Epoch {epoch+1}/{num_epochs} [Test]")
+            
+            with torch.no_grad():
+                for batch in test_progress:
+                    images = batch['image'].to(self.device)
+                    texts = batch['text'].to(self.device)
+                    labels = batch['label'].to(self.device)
+                    
+                    text_features, image_features = self.model(images, texts)
+                    loss = contrastive_loss(text_features, image_features, labels)
+                    
+                    test_epoch_loss += loss.item()
+                    test_progress.set_postfix({'loss': f"{loss.item():.4f}"})
+            
+            # Update learning rate
+            scheduler.step()
+            
+            # Calculate average losses
+            avg_train_loss = train_epoch_loss / len(train_loader)
+            avg_test_loss = test_epoch_loss / len(test_loader)
+            
+            train_losses.append(avg_train_loss)
+            test_losses.append(avg_test_loss)
+            
+            print(f"Epoch {epoch+1}/{num_epochs}")
+            print(f"  Train Loss: {avg_train_loss:.4f}")
+            print(f"  Test Loss:  {avg_test_loss:.4f}")
+            print(f"  LR: {scheduler.get_last_lr()[0]:.6f}")
+            
+            # Early stopping check
+            if avg_test_loss < best_test_loss:
+                best_test_loss = avg_test_loss
+                patience_counter = 0
+                # Save best model
+                best_model_path = save_path.replace('.pth', '_best.pth')
+                self.save_model(best_model_path)
+                print(f"  New best model saved: {best_model_path}")
+            else:
+                patience_counter += 1
+                print(f"  No improvement. Patience: {patience_counter}/{patience}")
+            
+            # Early stopping
+            if patience_counter >= patience:
+                print(f"\nEarly stopping triggered after {epoch+1} epochs")
+                break
+            
+            # Save checkpoint every 10 epochs
+            if (epoch + 1) % 10 == 0:
+                checkpoint_path = save_path.replace('.pth', f'_epoch_{epoch+1}.pth')
+                self.save_model(checkpoint_path)
+                print(f"  Checkpoint saved: {checkpoint_path}")
+            
+            print("-" * 60)
+        
+        # Save final model
+        self.save_model(save_path)
+        print(f"Training completed! Final model saved: {save_path}")
+        
+        # Plot training curves
+        self.plot_training_curves(train_losses, test_losses, save_path='training_curves.png')
+        
+        return train_losses, test_losses
+    
+    def plot_training_curves(self, train_losses, test_losses, save_path='training_curves.png'):
+        """
+        Vẽ training và validation curves
+        """
+        plt.figure(figsize=(12, 5))
+        
+        # Loss curves
+        plt.subplot(1, 2, 1)
+        epochs = range(1, len(train_losses) + 1)
+        plt.plot(epochs, train_losses, 'b-', label='Train Loss', linewidth=2)
+        plt.plot(epochs, test_losses, 'r-', label='Test Loss', linewidth=2)
+        plt.title('Training and Test Loss')
+        plt.xlabel('Epoch')
+        plt.ylabel('Loss')
+        plt.legend()
+        plt.grid(True)
+        
+        # Gap analysis
+        plt.subplot(1, 2, 2)
+        gap = [test - train for train, test in zip(train_losses, test_losses)]
+        plt.plot(epochs, gap, 'g-', label='Test - Train Loss', linewidth=2)
+        plt.axhline(y=0, color='k', linestyle='--', alpha=0.3)
+        plt.title('Overfitting Analysis')
+        plt.xlabel('Epoch')
+        plt.ylabel('Loss Gap')
+        plt.legend()
+        plt.grid(True)
+        
+        plt.tight_layout()
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+        plt.show()
+        
+        print(f"Training curves saved: {save_path}")
+    
+    def comprehensive_evaluate(self, test_metadata_file, top_k_list=[1, 3, 5, 10]):
+        """
+        Comprehensive evaluation trên test set
+        """
+        print("\n" + "="*50)
+        print("COMPREHENSIVE EVALUATION")
+        print("="*50)
+        
+        # Basic recall evaluation
+        recalls = self.evaluate(test_metadata_file, top_k_list)
+        
+        # Additional metrics
+        with open(test_metadata_file, 'r', encoding='utf-8') as f:
+            test_data = json.load(f)
+        
+        # Per-location analysis
+        location_performance = {}
+        
+        for item in tqdm(test_data, desc="Per-location analysis"):
+            city = item['location']['city']
+            if city not in location_performance:
+                location_performance[city] = {'queries': 0, 'hits@5': 0}
+            
+            # Test với city name
+            results = self.search(city, top_k=5)
+            target_id = item['image_id']
+            result_ids = [r['metadata']['image_id'] for r in results]
+            
+            location_performance[city]['queries'] += 1
+            if target_id in result_ids:
+                location_performance[city]['hits@5'] += 1
+        
+        # Print per-location results
+        print(f"\nPer-Location Performance (Recall@5):")
+        print("-" * 40)
+        for city, stats in location_performance.items():
+            if stats['queries'] > 0:
+                recall = stats['hits@5'] / stats['queries']
+                print(f"{city:15}: {recall:.3f} ({stats['hits@5']}/{stats['queries']})")
+        
+        return recalls, location_performance
+    
+    def analyze_difficult_cases(self, test_metadata_file, threshold=0.3):
+        """
+        Phân tích các case khó (low similarity scores)
+        """
+        with open(test_metadata_file, 'r', encoding='utf-8') as f:
+            test_data = json.load(f)
+        
+        difficult_cases = []
+        
+        for item in test_data:
+            # Test với caption
+            if 'captions' in item and 'vi' in item['captions']:
+                query = item['captions']['vi']
+                results = self.search(query, top_k=5)
+                
+                target_id = item['image_id']
+                target_found = False
+                target_score = 0
+                
+                for result in results:
+                    if result['metadata']['image_id'] == target_id:
+                        target_found = True
+                        target_score = result['similarity_score']
+                        break
+                
+                if not target_found or target_score < threshold:
+                    difficult_cases.append({
+                        'item': item,
+                        'query': query,
+                        'found': target_found,
+                        'score': target_score,
+                        'top_results': results[:3]
+                    })
+        
+        print(f"\nDifficult Cases Analysis (threshold < {threshold}):")
+        print("-" * 60)
+        for i, case in enumerate(difficult_cases[:5]):  # Show top 5 difficult cases
+            print(f"\nCase {i+1}:")
+            print(f"Query: {case['query']}")
+            print(f"Target: {case['item']['image_path']}")
+            print(f"Found: {case['found']}, Score: {case['score']:.4f}")
+            print("Top results:")
+            for j, result in enumerate(case['top_results']):
+                print(f"  {j+1}. {result['image_path']} (score: {result['similarity_score']:.4f})")
+        
+        return difficult_cases
+
+# Usage example
 if __name__ == "__main__":
-    # Tạo extended dataset
-    create_extended_sample_dataset()
+    # Step 1: Split dataset
+    print("Step 1: Splitting dataset...")
+    train_data, test_data = split_tourism_dataset('data/dataset_metadata.json', train_ratio=0.8)
     
-    # Khởi tạo system
-    search_system = CustomImageSearchSystem()
+    # Step 2: Initialize and prepare
+    print("\nStep 2: Initializing model...")
+    search_system = ImprovedCustomImageSearchSystem()
+    search_system.prepare_data('data/train_metadata.json', 'models/vocab.pkl')
     
-    # Chuẩn bị dữ liệu
-    search_system.prepare_data('extended_dataset_metadata.json', 'vocab.pkl')
-    
-    # Training (comment out nếu đã có model)
-    print("Starting training...")
-    train_losses = search_system.train(
-        'extended_dataset_metadata.json',
-        num_epochs=20,
+    # Step 3: Train with validation
+    print("\nStep 3: Training with validation...")
+    train_losses, test_losses = search_system.train_with_validation(
+        train_metadata_file='data/train_metadata.json',
+        test_metadata_file='data/test_metadata.json',
+        num_epochs=30,
         batch_size=8,
         learning_rate=0.001,
-        save_path='custom_tourism_model.pth'
+        save_path='models/custom_model_with_validation.pth',
+        patience=10
     )
     
-    # Encode dataset images
+    # Step 4: Load best model and encode
+    print("\nStep 4: Loading best model and encoding dataset...")
+    best_model_path = 'models/custom_model_with_validation_best.pth'
+    if os.path.exists(best_model_path):
+        search_system.load_model(best_model_path)
+    
     search_system.encode_dataset_images(
-        'extended_dataset_metadata.json',
-        'custom_embeddings.pkl'
+        'data/dataset_metadata.json',  # Encode toàn bộ dataset để có thể search
+        'models/custom_embeddings_with_validation.pkl'
     )
     
-    # Test search
-    print("\n=== CUSTOM MODEL SEARCH RESULTS ===")
-    test_queries = ["Đà Nẵng", "Hà Nội", "beach", "mountain"]
+    # Step 5: Comprehensive evaluation
+    print("\nStep 5: Comprehensive evaluation...")
+    recalls, location_perf = search_system.comprehensive_evaluate('data/test_metadata.json')
     
-    for query in test_queries:
-        print(f"\nSearching for: '{query}'")
-        results = search_system.search(query, top_k=3)
+    # Step 6: Analyze difficult cases
+    print("\nStep 6: Analyzing difficult cases...")
+    difficult_cases = search_system.analyze_difficult_cases('data/test_metadata.json')
+    
+    # Step 7: Test search
+    print("\nStep 7: Testing search functionality...")
+    results = search_system.search("cánh đồng hoa đỏ moc chau", top_k=3)
+    for idx, result in enumerate(results):
+        print(f"  {idx+1}. {result['image_path']} (score: {result['similarity_score']:.4f})")
+        print(f"     Caption: {result['metadata']['captions']['vi']}")
+
+    # test_queries = ["Đà Nẵng", "Hà Nội", "beach", "mountain"]
+    
+    # for query in test_queries:
+    #     print(f"\nSearching for: '{query}'")
+    #     results = search_system.search(query, top_k=3)
         
-        for idx, result in enumerate(results):
-            print(f"  {idx+1}. {result['image_path']} (score: {result['similarity_score']:.4f})")
-            print(f"     Location: {result['metadata']['location']['city']}")
-            print(f"     Caption: {result['metadata']['captions']['vi']}")
+    #     for idx, result in enumerate(results):
+    #         print(f"  {idx+1}. {result['image_path']} (score: {result['similarity_score']:.4f})")
+    #         print(f"     Caption: {result['metadata']['captions']['vi']}")
     
-    # Evaluation
-    print("\n=== EVALUATION ===")
-    eval_results = search_system.evaluate('extended_dataset_metadata.json')
-    
-    print("\nTraining completed successfully!")
-    print("Files created:")
-    print("- custom_tourism_model.pth: Trained model")
-    print("- vocab.pkl: Text vocabulary")  
-    print("- custom_embeddings.pkl: Image embeddings")
-    print("- training_loss.png: Training curve")
-                
+    print("\nTraining and evaluation completed!")
+    print("Generated files:")
+    print("- models/custom_model_with_validation.pth: Final model")
+    print("- models/custom_model_with_validation_best.pth: Best model (early stopping)")
+    print("- models/vocab.pkl: Vocabulary")
+    print("- models/custom_embeddings_with_validation.pkl: Image embeddings")
+    print("- training_curves.png: Training curves")
+    print("- data/train_metadata.json: Training set")
+    print("- data/test_metadata.json: Test set")
