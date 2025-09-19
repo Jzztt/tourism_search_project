@@ -5,19 +5,24 @@
     "location": {
       "city": "Đà Nẵng",
       "country": "Việt Nam",
-      "region": "Miền Trung"
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
     },
     "landmark": "Cầu Rồng",
     "captions": {
-      "vi": "Cầu Rồng Đà Nẵng lung linh về đêm",
-      "en": "Dragon Bridge in Da Nang illuminated at night"
+      "vi": "Cầu Rồng lung linh ánh đèn vào ban đêm, phản chiếu xuống sông Hàn, với một chiếc thuyền nhỏ đậu phía trước",
+      "en": "Dragon Bridge sparkling with lights at night, reflecting on the Han River, with a small boat in the foreground"
     },
     "tags": [
-      "đà nẵng",
       "da nang",
-      "cầu rồng",
+      "cau rong",
       "dragon bridge",
-      "landmark"
+      "han river",
+      "night",
+      "cityscape",
+      "architecture",
+      "tourism",
+      "vietnam"
     ],
     "category": "architecture",
     "time_taken": "night"
@@ -28,23 +33,1620 @@
     "location": {
       "city": "Đà Nẵng",
       "country": "Việt Nam",
-      "region": "Miền Trung"
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
     },
     "landmark": "Bãi biển Mỹ Khê",
     "captions": {
-      "vi": "Bãi biển Mỹ Khê Đà Nẵng cát trắng nước trong",
-      "en": "My Khe Beach in Da Nang with white sand and clear water"
+      "vi": "Bãi biển Mỹ Khê với hàng dừa xanh mát, ô che nắng và du khách đang thư giãn dưới ánh nắng mặt trời",
+      "en": "My Khe Beach with lush palm trees, sun umbrellas, and tourists relaxing under the sun"
     },
     "tags": [
-      "đà nẵng",
       "da nang",
-      "mỹ khê",
       "my khe beach",
-      "beach"
+      "beach",
+      "palm trees",
+      "sea",
+      "tourism",
+      "relaxation",
+      "vietnam"
     ],
-    "category": "beach",
+    "category": "nature",
     "time_taken": "day"
   },
+  {
+    "image_id": "danang_003",
+    "image_path": "images/danang/danang_003.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Toàn cảnh Cầu Vàng tại Bà Nà Hills, được nâng đỡ bởi hai bàn tay đá khổng lồ, với nhiều du khách đang tham quan",
+      "en": "Panoramic view of Golden Bridge at Ba Na Hills, supported by two giant stone hands, with many tourists visiting"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "architecture",
+      "tourism",
+      "mountains",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_005",
+    "image_path": "images/danang/danang_005.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Toàn cảnh Làng Pháp trên đỉnh Bà Nà Hills với kiến trúc lâu đài cổ kính, bao quanh bởi núi rừng xanh thẳm",
+      "en": "Aerial view of French Village on top of Ba Na Hills with ancient castle architecture, surrounded by lush green mountains"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "castle",
+      "architecture",
+      "tourism",
+      "mountains",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_007",
+    "image_path": "images/danang/danang_007.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Cầu Vàng với thiết kế độc đáo được nâng đỡ bởi bàn tay đá, thu hút đông đảo du khách tham quan",
+      "en": "Golden Bridge with its unique design supported by stone hands, attracting many tourists"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "architecture",
+      "tourism",
+      "mountains",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_008",
+    "image_path": "images/danang/danang_008.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bà Nà Hills và Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Hình ảnh ghép của Làng Pháp Bà Nà Hills với cáp treo và bãi biển Đà Nẵng với hoạt động dù lượn",
+      "en": "Composite image of Ba Na Hills French Village with cable car and Da Nang beach with paragliding activities"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "cable car",
+      "beach",
+      "paragliding",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_009",
+    "image_path": "images/danang/danang_009.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Khu nghỉ dưỡng biển Đà Nẵng",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng sang trọng với bãi cỏ xanh mướt, hàng dừa và những chòi nghỉ mát hướng ra biển",
+      "en": "Luxury beach resort with lush green lawns, palm trees, and relaxation huts facing the sea"
+    },
+    "tags": [
+      "da nang",
+      "resort",
+      "beach",
+      "palm trees",
+      "sea",
+      "tourism",
+      "relaxation",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_011",
+    "image_path": "images/danang/danang_011.jpg",
+    "location": {
+      "city": "Hội An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Quảng Nam"
+    },
+    "landmark": "Chùa Cầu (Hội An)",
+    "captions": {
+      "vi": "Người phụ nữ đội nón lá đứng ngắm cảnh Chùa Cầu cổ kính ở Hội An, dưới bầu trời trong xanh",
+      "en": "Woman in a conical hat admiring the ancient Japanese Covered Bridge in Hoi An, under a clear blue sky"
+    },
+    "tags": [
+      "hoi an",
+      "chua cau",
+      "japanese covered bridge",
+      "ancient town",
+      "architecture",
+      "culture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_012",
+    "image_path": "images/danang/danang_012.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Người phụ nữ đứng trên cầu gỗ cũ hướng ra biển xanh ngọc, với núi non phía xa",
+      "en": "Woman standing on an old wooden pier looking out at the turquoise sea, with mountains in the distance"
+    },
+    "tags": [
+      "da nang",
+      "beach",
+      "pier",
+      "sea",
+      "mountains",
+      "woman",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_013",
+    "image_path": "images/danang/danang_013.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Cầu Vàng trong ánh hoàng hôn hoặc bình minh, với khung cảnh mờ ảo của núi non và mây trời",
+      "en": "Golden Bridge at sunset or sunrise, with a hazy view of mountains and sky"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "sunset",
+      "sunrise",
+      "mountains",
+      "architecture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_014",
+    "image_path": "images/danang/danang_014.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bán đảo Sơn Trà",
+    "captions": {
+      "vi": "Người phụ nữ giơ tay về phía vịnh biển xanh ngọc của Bán đảo Sơn Trà, nhìn từ trên cao",
+      "en": "Woman raising her hands towards the turquoise bay of Son Tra Peninsula, viewed from above"
+    },
+    "tags": [
+      "da nang",
+      "son tra peninsula",
+      "sea",
+      "bay",
+      "mountains",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_016",
+    "image_path": "images/danang/danang_016.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Gia đình vui đùa trên bãi biển Đà Nẵng, tận hưởng sóng biển và ánh nắng mặt trời",
+      "en": "Family playing on Da Nang beach, enjoying the waves and sunshine"
+    },
+    "tags": [
+      "da nang",
+      "beach",
+      "family",
+      "sea",
+      "waves",
+      "tourism",
+      "relaxation",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_019",
+    "image_path": "images/danang/danang_019.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Các địa danh Đà Nẵng",
+    "captions": {
+      "vi": "Hình ảnh ghép các địa danh nổi tiếng của Đà Nẵng: Cầu Rồng, Phố cổ Hội An và Làng Pháp Bà Nà Hills",
+      "en": "Collage of famous Da Nang landmarks: Dragon Bridge, Hoi An Ancient Town, and Ba Na Hills French Village"
+    },
+    "tags": [
+      "da nang",
+      "cau rong",
+      "hoi an",
+      "ba na hills",
+      "collage",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_006",
+    "image_path": "images/danang/danang_006.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi đá rêu phong",
+    "captions": {
+      "vi": "Bãi đá rêu phong ven biển trong ánh hoàng hôn tím hồng, với sóng biển vỗ bờ",
+      "en": "Mossy rocks on the coastline during a purple-pink sunset, with waves crashing on the shore"
+    },
+    "tags": [
+      "da nang",
+      "rocky beach",
+      "moss",
+      "sunset",
+      "sea",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_015",
+    "image_path": "images/danang/danang_015.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Chùa Linh Ứng (Bán đảo Sơn Trà)",
+    "captions": {
+      "vi": "Tượng Phật Bà Quan Âm trắng khổng lồ tại Chùa Linh Ứng, nhìn ra biển từ Bán đảo Sơn Trà",
+      "en": "Giant white Lady Buddha statue at Linh Ung Pagoda, overlooking the sea from Son Tra Peninsula"
+    },
+    "tags": [
+      "da nang",
+      "linh ung pagoda",
+      "lady buddha",
+      "son tra peninsula",
+      "temple",
+      "buddhism",
+      "culture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_019",
+    "image_path": "images/danang/danang_019.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tổng hợp các địa danh Đà Nẵng và Hội An",
+    "captions": {
+      "vi": "Hình ảnh tổng hợp: thuyền thúng ở rừng dừa, Cầu Rồng, phố cổ Hội An về đêm và Làng Pháp Bà Nà Hills với cáp treo",
+      "en": "Composite image: basket boats in coconut forest, Dragon Bridge, Hoi An ancient town at night, and Ba Na Hills French Village with cable cars"
+    },
+    "tags": [
+      "da nang",
+      "hoi an",
+      "ba na hills",
+      "basket boats",
+      "dragon bridge",
+      "french village",
+      "cable car",
+      "tourism",
+      "vietnam",
+      "collage"
+    ],
+    "category": "travel",
+    "time_taken": "day/night"
+  },
+  {
+    "image_id": "danang_020",
+    "image_path": "images/danang/danang_020.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Nhóm bạn trẻ chụp ảnh trên Cầu Vàng tại Bà Nà Hills vào lúc hoàng hôn hoặc bình minh, với khung cảnh núi non hùng vĩ",
+      "en": "Group of young people taking photos on Golden Bridge at Ba Na Hills during sunset or sunrise, with majestic mountain scenery"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "people",
+      "tourism",
+      "mountains",
+      "vietnam",
+      "sunset",
+      "sunrise"
+    ],
+    "category": "people",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_021",
+    "image_path": "images/danang/danang_021.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Vịnh biển tại Đà Nẵng",
+    "captions": {
+      "vi": "Người phụ nữ đứng trên mỏm đá ngắm nhìn vịnh biển xanh ngọc với những chiếc thuyền lướt sóng, bao quanh bởi núi xanh",
+      "en": "Woman standing on a rock outcrop overlooking a turquoise bay with speedboats, surrounded by green mountains"
+    },
+    "tags": [
+      "da nang",
+      "bay",
+      "sea",
+      "mountains",
+      "woman",
+      "tourism",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_022",
+    "image_path": "images/danang/danang_022.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Hoạt động dù lượn trên biển Đà Nẵng",
+    "captions": {
+      "vi": "Hoạt động dù lượn đầy màu sắc trên biển Đà Nẵng, với núi xanh làm nền và sóng biển trắng xóa",
+      "en": "Colorful parasailing activity over Da Nang sea, with green mountains in the background and white waves"
+    },
+    "tags": [
+      "da nang",
+      "parasailing",
+      "sea",
+      "watersports",
+      "adventure",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "activity",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_023",
+    "image_path": "images/danang/danang_023.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Kiến trúc lâu đài cổ kính của Làng Pháp tại Bà Nà Hills dưới bầu trời xanh trong, với du khách tham quan",
+      "en": "Ancient castle architecture of French Village at Ba Na Hills under a clear blue sky, with tourists visiting"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "castle",
+      "architecture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_026",
+    "image_path": "images/danang/danang_026.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Đường ven biển và vịnh biển Đà Nẵng",
+    "captions": {
+      "vi": "Toàn cảnh từ trên cao đường ven biển uốn lượn, bãi cát trắng và vịnh biển xanh ngọc với nhiều thuyền neo đậu",
+      "en": "Aerial view of winding coastal road, white sand beach, and turquoise bay with many boats anchored"
+    },
+    "tags": [
+      "da nang",
+      "coastal road",
+      "beach",
+      "bay",
+      "sea",
+      "boats",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_027",
+    "image_path": "images/danang/danang_027.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cáp treo và Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Cáp treo Bà Nà Hills lướt qua những ngọn cây xanh, với Làng Pháp cổ kính ẩn hiện phía sau",
+      "en": "Ba Na Hills cable cars gliding over green treetops, with the ancient French Village visible in the background"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "cable car",
+      "french village",
+      "architecture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_028",
+    "image_path": "images/danang/danang_028.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Cầu Vàng với những lá cờ Việt Nam tung bay, thu hút đông đảo du khách tham quan và chụp ảnh",
+      "en": "Golden Bridge adorned with Vietnamese flags, attracting many tourists for sightseeing and photos"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "vietnamese flag",
+      "tourism",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_029",
+    "image_path": "images/danang/danang_029.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Khu nghỉ dưỡng ven biển Đà Nẵng",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng với những căn biệt thự mái ngói đỏ nằm dọc bờ biển, hướng ra biển xanh và núi non",
+      "en": "Beachfront resort with red-tiled villas along the coastline, facing the blue sea and mountains"
+    },
+    "tags": [
+      "da nang",
+      "resort",
+      "beach",
+      "sea",
+      "mountains",
+      "tourism",
+      "relaxation",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_030",
+    "image_path": "images/danang/danang_030.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Quảng trường Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Quảng trường Làng Pháp nhộn nhịp tại Bà Nà Hills với nhiều du khách và kiến trúc châu Âu cổ kính",
+      "en": "Bustling French Village square at Ba Na Hills with many tourists and ancient European architecture"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "square",
+      "architecture",
+      "tourism",
+      "people",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_031",
+    "image_path": "images/danang/danang_031.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tượng Phật Bà Quan Âm (Chùa Linh Ứng, Sơn Trà)",
+    "captions": {
+      "vi": "Toàn cảnh Tượng Phật Bà Quan Âm trắng khổng lồ tại Chùa Linh Ứng, Bán đảo Sơn Trà, nhìn ra biển và thành phố Đà Nẵng",
+      "en": "Panoramic view of the giant white Lady Buddha statue at Linh Ung Pagoda, Son Tra Peninsula, overlooking the sea and Da Nang city"
+    },
+    "tags": [
+      "da nang",
+      "linh ung pagoda",
+      "lady buddha",
+      "son tra peninsula",
+      "temple",
+      "buddhism",
+      "culture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_033",
+    "image_path": "images/danang/danang_033.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tổng hợp các địa danh Đà Nẵng và Hội An",
+    "captions": {
+      "vi": "Hình ảnh tổng hợp: chùa tháp, tượng Phật, Làng Pháp Bà Nà Hills và phố cổ Hội An về đêm với đèn lồng",
+      "en": "Composite image: pagoda, Buddha statues, Ba Na Hills French Village, and Hoi An ancient town at night with lanterns"
+    },
+    "tags": [
+      "da nang",
+      "hoi an",
+      "ba na hills",
+      "pagoda",
+      "buddha",
+      "french village",
+      "lanterns",
+      "tourism",
+      "vietnam",
+      "collage"
+    ],
+    "category": "travel",
+    "time_taken": "day/night"
+  },
+  {
+    "image_id": "danang_034",
+    "image_path": "images/danang/danang_034.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tượng Phật Bà Quan Âm (Chùa Linh Ứng, Sơn Trà)",
+    "captions": {
+      "vi": "Tượng Phật Bà Quan Âm tại Chùa Linh Ứng trên Bán đảo Sơn Trà, nhìn ra vịnh biển và thành phố Đà Nẵng",
+      "en": "Lady Buddha statue at Linh Ung Pagoda on Son Tra Peninsula, overlooking the bay and Da Nang city"
+    },
+    "tags": [
+      "da nang",
+      "linh ung pagoda",
+      "lady buddha",
+      "son tra peninsula",
+      "temple",
+      "buddhism",
+      "culture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_036",
+    "image_path": "images/danang/danang_036.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Công trình kiến trúc kiểu lâu đài (Bà Nà Hills)",
+    "captions": {
+      "vi": "Hình ảnh minh họa một công trình kiến trúc kiểu lâu đài trên núi, có thể là một phần của Bà Nà Hills",
+      "en": "Illustrative image of a castle-like architectural structure on a mountain, possibly part of Ba Na Hills"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "castle",
+      "architecture",
+      "tourism",
+      "vietnam",
+      "render"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_037",
+    "image_path": "images/danang/danang_037.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Cầu Vàng nổi bật giữa khung cảnh núi non xanh thẳm, với mây trời bao phủ phía xa",
+      "en": "Golden Bridge standing out amidst lush green mountains, with clouds and sky in the distance"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "architecture",
+      "tourism",
+      "mountains",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_038",
+    "image_path": "images/danang/danang_038.jpg",
+    "location": {
+      "city": "Hội An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Quảng Nam"
+    },
+    "landmark": "Phố cổ Hội An",
+    "captions": {
+      "vi": "Con phố cổ kính ở Hội An với những ngôi nhà truyền thống, cửa hàng nghệ thuật và người dân địa phương",
+      "en": "Ancient street in Hoi An with traditional houses, art shops, and local people"
+    },
+    "tags": [
+      "hoi an",
+      "ancient town",
+      "old street",
+      "architecture",
+      "culture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_040",
+    "image_path": "images/danang/danang_040.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Bãi biển cát trắng với hàng dừa xanh mướt, nước biển trong xanh và những chiếc thuyền neo đậu, xa xa là núi non",
+      "en": "White sandy beach with lush palm trees, clear blue sea, and anchored boats, with distant mountains"
+    },
+    "tags": [
+      "da nang",
+      "beach",
+      "sea",
+      "palm trees",
+      "boats",
+      "nature",
+      "travel",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_041",
+    "image_path": "images/danang/danang_041.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Vịnh biển Đà Nẵng",
+    "captions": {
+      "vi": "Khung cảnh vịnh biển xanh ngắt với những chiếc thuyền đánh cá, cây có hoa màu cam ở tiền cảnh và núi non bao quanh",
+      "en": "Scenic view of a deep blue bay with fishing boats, a tree with orange flowers in the foreground, and surrounding mountains"
+    },
+    "tags": [
+      "da nang",
+      "bay",
+      "sea",
+      "fishing boats",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_043",
+    "image_path": "images/danang/danang_043.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Cầu Vàng tại Bà Nà Hills rực rỡ trong ánh hoàng hôn hoặc bình minh, với khung cảnh núi non hùng vĩ phía sau",
+      "en": "Golden Bridge at Ba Na Hills glowing in the sunset or sunrise, with majestic mountain scenery in the background"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "architecture",
+      "tourism",
+      "sunset",
+      "sunrise",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_044",
+    "image_path": "images/danang/danang_044.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Mỹ Khê",
+    "captions": {
+      "vi": "Bãi biển Mỹ Khê đông đúc với nhiều người tắm biển và thư giãn dưới bầu trời xanh đầy mây trắng",
+      "en": "Crowded My Khe Beach with many people swimming and relaxing under a blue sky with white clouds"
+    },
+    "tags": [
+      "da nang",
+      "my khe beach",
+      "beach",
+      "sea",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_046",
+    "image_path": "images/danang/danang_046.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tượng Phật Bà Quan Âm (Chùa Linh Ứng, Sơn Trà)",
+    "captions": {
+      "vi": "Tượng Phật Bà Quan Âm màu trắng nổi bật giữa không gian xanh của cây cối và bầu trời trong xanh",
+      "en": "Prominent white Lady Buddha statue amidst green foliage and clear blue sky"
+    },
+    "tags": [
+      "da nang",
+      "linh ung pagoda",
+      "lady buddha",
+      "son tra peninsula",
+      "temple",
+      "buddhism",
+      "culture",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_049",
+    "image_path": "images/danang/danang_049.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Nhóm phụ nữ trẻ vui vẻ nhảy múa trên Cầu Vàng tại Bà Nà Hills, với khung cảnh núi non hùng vĩ",
+      "en": "Group of young women happily jumping on Golden Bridge at Ba Na Hills, with majestic mountain scenery"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_050",
+    "image_path": "images/danang/danang_050.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cổng vào Sun World Ba Na Hills",
+    "captions": {
+      "vi": "Một nhóm người chụp ảnh trước cổng vào Sun World Ba Na Hills với kiến trúc độc đáo và trang trí hình mặt trời",
+      "en": "A group of people posing in front of the Sun World Ba Na Hills entrance gate with unique architecture and sun-themed decorations"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "sun world",
+      "entrance",
+      "architecture",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_051",
+    "image_path": "images/danang/danang_051.jpg",
+    "location": {
+      "city": "Quy Nhơn",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Bình Định"
+    },
+    "landmark": "Eo Gió (Quy Nhơn)",
+    "captions": {
+      "vi": "Bãi biển Eo Gió ở Quy Nhơn với làn nước trong xanh, những vách đá hùng vĩ và một chiếc thuyền thúng nhỏ",
+      "en": "Eo Gio beach in Quy Nhon with clear blue water, majestic cliffs, and a small basket boat"
+    },
+    "tags": [
+      "quy nhon",
+      "eo gio",
+      "beach",
+      "sea",
+      "cliffs",
+      "basket boat",
+      "nature",
+      "travel",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_052",
+    "image_path": "images/danang/danang_052.jpg",
+    "location": {
+      "city": "Hội An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Quảng Nam"
+    },
+    "landmark": "Phố cổ Hội An",
+    "captions": {
+      "vi": "Góc nhìn từ trên cao của phố cổ Hội An với những ngôi nhà mái ngói vàng truyền thống, cây xanh và người đi bộ",
+      "en": "Aerial view of Hoi An ancient town with traditional yellow-tiled houses, greenery, and pedestrians"
+    },
+    "tags": [
+      "hoi an",
+      "ancient town",
+      "architecture",
+      "culture",
+      "street",
+      "travel",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_053",
+    "image_path": "images/danang/danang_053.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cổng chào Sun World Ba Na Hills",
+    "captions": {
+      "vi": "Một nhóm du khách chụp ảnh trước cổng chào CHÀO XUÂN 2025 của Sun World Ba Na Hills với kiến trúc ấn tượng",
+      "en": "A group of tourists posing in front of the CHÀO XUÂN 2025 entrance gate of Sun World Ba Na Hills with impressive architecture"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "sun world",
+      "entrance",
+      "architecture",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_054",
+    "image_path": "images/danang/danang_054.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Toàn cảnh Làng Pháp tại Bà Nà Hills nhìn từ trên cao với các tòa nhà kiến trúc châu Âu và quảng trường trung tâm",
+      "en": "Aerial view of French Village at Ba Na Hills with European-style buildings and a central square"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "architecture",
+      "tourism",
+      "vietnam",
+      "aerial view"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_056",
+    "image_path": "images/danang/danang_056.jpg",
+    "location": {
+      "city": "Hội An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Quảng Nam"
+    },
+    "landmark": "Sông Hoài (Hội An)",
+    "captions": {
+      "vi": "Cô gái mặc áo dài trắng và nón lá đứng bên bờ sông Hoài, ngắm nhìn những chiếc thuyền hoa đăng rực rỡ",
+      "en": "Girl in white ao dai and conical hat standing by Hoai River, admiring colorful lantern boats"
+    },
+    "tags": [
+      "hoi an",
+      "hoai river",
+      "ao dai",
+      "conical hat",
+      "lanterns",
+      "boats",
+      "culture",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "evening"
+  },
+  {
+    "image_id": "danang_057",
+    "image_path": "images/danang/danang_057.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Vườn Tượng Phật (Ngũ Hành Sơn)",
+    "captions": {
+      "vi": "Tượng Phật Di Lặc cười tươi trong khu vườn với nhiều tượng đá và cây cảnh, tạo không gian thanh tịnh",
+      "en": "Smiling Maitreya Buddha statue in a garden with various stone sculptures and potted plants, creating a serene atmosphere"
+    },
+    "tags": [
+      "da nang",
+      "marble mountains",
+      "buddha statue",
+      "maitreya",
+      "garden",
+      "culture",
+      "buddhism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_058",
+    "image_path": "images/danang/danang_058.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tượng Phật trên núi (Bà Nà Hills)",
+    "captions": {
+      "vi": "Tượng Phật lớn màu trắng nhìn ra khung cảnh núi non hùng vĩ và thung lũng mờ sương",
+      "en": "Large white Buddha statue overlooking majestic mountains and a misty valley"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "buddha statue",
+      "mountains",
+      "nature",
+      "culture",
+      "buddhism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_059",
+    "image_path": "images/danang/danang_059.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Cầu Vàng (Bà Nà Hills)",
+    "captions": {
+      "vi": "Toàn cảnh Cầu Vàng với đông đảo du khách, nổi bật giữa màu xanh của núi rừng và bầu trời trong xanh",
+      "en": "Panoramic view of Golden Bridge with numerous tourists, standing out against the green mountains and clear blue sky"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "golden bridge",
+      "cau vang",
+      "people",
+      "tourism",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_061",
+    "image_path": "images/danang/danang_061.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Bãi biển cát trắng với hàng dù đỏ và ghế tắm nắng, phía xa là núi non hùng vĩ dưới bầu trời xanh trong",
+      "en": "White sandy beach with red umbrellas and sun loungers, with majestic mountains in the distance under a clear blue sky"
+    },
+    "tags": [
+      "da nang",
+      "beach",
+      "sea",
+      "umbrellas",
+      "mountains",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_062",
+    "image_path": "images/danang/danang_062.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Quảng trường với đài phun nước và các bức tượng vàng tại Làng Pháp, Bà Nà Hills, với kiến trúc cổ kính xung quanh",
+      "en": "Square with fountains and golden statues in French Village, Ba Na Hills, surrounded by ancient architecture"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "architecture",
+      "fountain",
+      "statues",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_063",
+    "image_path": "images/danang/danang_063.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Ngũ Hành Sơn",
+    "captions": {
+      "vi": "Khung cảnh hoàng hôn hoặc bình minh trên Ngũ Hành Sơn, với những ngọn núi đá vôi và thành phố Đà Nẵng phía xa",
+      "en": "Sunset or sunrise view over Marble Mountains, with limestone peaks and Da Nang city in the distance"
+    },
+    "tags": [
+      "da nang",
+      "marble mountains",
+      "ngu hanh son",
+      "mountains",
+      "landscape",
+      "sunset",
+      "sunrise",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_065",
+    "image_path": "images/danang/danang_065.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Tượng Phật tại chùa Linh Ứng (Sơn Trà)",
+    "captions": {
+      "vi": "Tượng Phật lớn màu trắng tọa lạc trên một ngọn đồi, nhìn ra toàn cảnh thành phố và núi non phía xa",
+      "en": "Large white Buddha statue situated on a hill, overlooking the city and distant mountains"
+    },
+    "tags": [
+      "da nang",
+      "linh ung pagoda",
+      "buddha statue",
+      "son tra peninsula",
+      "culture",
+      "buddhism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_066",
+    "image_path": "images/danang/danang_066.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Chùa Linh Ứng (Sơn Trà)",
+    "captions": {
+      "vi": "Toàn cảnh từ trên cao của Chùa Linh Ứng và Tượng Phật Bà Quan Âm trên bán đảo Sơn Trà, với đường bờ biển uốn lượn",
+      "en": "Aerial view of Linh Ung Pagoda and Lady Buddha statue on Son Tra Peninsula, with a winding coastline"
+    },
+    "tags": [
+      "da nang",
+      "linh ung pagoda",
+      "lady buddha",
+      "son tra peninsula",
+      "aerial view",
+      "temple",
+      "culture",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_067",
+    "image_path": "images/danang/danang_067.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Lâu đài kiến trúc Pháp cổ kính trên đỉnh núi Bà Nà Hills, bao quanh bởi rừng cây và mây mù buổi sáng sớm hoặc hoàng hôn",
+      "en": "Ancient French castle architecture on top of Ba Na Hills, surrounded by forests and morning mist or sunset clouds"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "castle",
+      "architecture",
+      "mountains",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_068",
+    "image_path": "images/danang/danang_068.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Bãi biển cát vàng với hàng dù che nắng và ghế tắm nắng, sóng biển lăn tăn và núi non phía xa dưới bầu trời trong xanh",
+      "en": "Golden sandy beach with sun umbrellas and loungers, gentle waves, and distant mountains under a clear blue sky"
+    },
+    "tags": [
+      "da nang",
+      "beach",
+      "sea",
+      "umbrellas",
+      "mountains",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_069",
+    "image_path": "images/danang/danang_069.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Góc nhìn từ trên cao của Làng Pháp tại Bà Nà Hills với các tòa nhà kiến trúc châu Âu, đường đi bộ và cây xanh",
+      "en": "Aerial view of French Village at Ba Na Hills with European-style buildings, walkways, and greenery"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "architecture",
+      "tourism",
+      "vietnam",
+      "aerial view"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_070",
+    "image_path": "images/danang/danang_070.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Đài phun nước Làng Pháp (Bà Nà Hills)",
+    "captions": {
+      "vi": "Đài phun nước hoành tráng với các bức tượng vàng hình ngựa và người, được chiếu sáng rực rỡ vào buổi tối tại Làng Pháp",
+      "en": "Grand fountain with golden horse and human statues, brightly lit at night in French Village"
+    },
+    "tags": [
+      "da nang",
+      "ba na hills",
+      "french village",
+      "fountain",
+      "statues",
+      "night",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "night"
+  },
+  {
+    "image_id": "danang_071",
+    "image_path": "images/danang/danang_071.jpg",
+    "location": {
+      "city": "Hội An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Quảng Nam"
+    },
+    "landmark": "Chùa Hải Tạng (Cù Lao Chàm)",
+    "captions": {
+      "vi": "Chùa Hải Tạng cổ kính trên Cù Lao Chàm với kiến trúc truyền thống, cây xanh bao quanh và du khách tham quan",
+      "en": "Ancient Hai Tang Pagoda on Cu Lao Cham with traditional architecture, surrounding greenery, and visitors"
+    },
+    "tags": [
+      "hoi an",
+      "cu lao cham",
+      "hai tang pagoda",
+      "temple",
+      "culture",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_072",
+    "image_path": "images/danang/danang_072.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Đỉnh Bàn Cờ (Sơn Trà)",
+    "captions": {
+      "vi": "Tượng ông tiên ngồi đánh cờ trên Đỉnh Bàn Cờ, bán đảo Sơn Trà, nhìn ra biển và bầu trời xanh",
+      "en": "Statue of a fairy playing chess on Chessboard Peak, Son Tra Peninsula, overlooking the sea and blue sky"
+    },
+    "tags": [
+      "da nang",
+      "son tra peninsula",
+      "chessboard peak",
+      "statue",
+      "nature",
+      "culture",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_074",
+    "image_path": "images/danang/danang_074.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Bãi biển Đà Nẵng",
+    "captions": {
+      "vi": "Những người chơi dù lượn trên bầu trời xanh, bay lượn trên bãi biển dài và làn nước biển trong xanh của Đà Nẵng",
+      "en": "Paragliders in the blue sky, soaring over the long beach and clear blue waters of Da Nang"
+    },
+    "tags": [
+      "da nang",
+      "beach",
+      "sea",
+      "paragliding",
+      "adventure",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_076",
+    "image_path": "images/danang/danang_076.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Đường ven biển Đà Nẵng",
+    "captions": {
+      "vi": "Toàn cảnh đường ven biển Đà Nẵng với bãi cát dài, hàng dừa xanh và các tòa nhà cao tầng dọc bờ biển",
+      "en": "Panoramic view of Da Nang coastal road with a long sandy beach, palm trees, and high-rise buildings along the coast"
+    },
+    "tags": [
+      "da nang",
+      "coastal road",
+      "beach",
+      "cityscape",
+      "architecture",
+      "travel",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "danang_077",
+    "image_path": "images/danang/danang_077.jpg",
+    "location": {
+      "city": "Đà Nẵng",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Đà Nẵng"
+    },
+    "landmark": "Ngũ Hành Sơn",
+    "captions": {
+      "vi": "Khung cảnh hùng vĩ của Ngũ Hành Sơn vào lúc bình minh hoặc hoàng hôn, với những khối đá vôi và thảm thực vật xanh tươi",
+      "en": "Majestic view of Marble Mountains at sunrise or sunset, with limestone formations and lush green vegetation"
+    },
+    "tags": [
+      "da nang",
+      "marble mountains",
+      "ngu hanh son",
+      "mountains",
+      "landscape",
+      "sunset",
+      "sunrise",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "danang_078",
+    "image_path": "images/danang/danang_078.jpg",
+    "location": {
+      "city": "Hội An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Quảng Nam"
+    },
+    "landmark": "Cù Lao Chàm",
+    "captions": {
+      "vi": "Toàn cảnh Cù Lao Chàm từ trên cao với các hòn đảo xanh biếc, bãi biển cát trắng và làng chài ven biển",
+      "en": "Aerial view of Cu Lao Cham with lush green islands, white sandy beaches, and coastal fishing villages"
+    },
+    "tags": [
+      "hoi an",
+      "cu lao cham",
+      "island",
+      "sea",
+      "beach",
+      "nature",
+      "travel",
+      "vietnam",
+      "aerial view"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+
   {
     "image_id": "hanoi_001",
     "image_path": "images/hanoi/hanoi_001.jpg",
@@ -3639,7 +5241,4256 @@
     ],
     "category": "nature",
     "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_070",
+    "image_path": "images/mocchau/mocchau_070.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè xanh mướt với những hàng chè thẳng tắp và cảnh quan thiên nhiên",
+      "en": "Lush green tea hills with neat rows of tea plants and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green landscape",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_071",
+    "image_path": "images/mocchau/mocchau_071.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và bầu trời trong xanh",
+      "en": "Tea hills with fresh green tea rows and clear blue sky"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_072",
+    "image_path": "images/mocchau/mocchau_072.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với biển hiệu \"Tuổi trẻ đang giá\" và cảnh quan thiên nhiên",
+      "en": "Tea hills with \"Tuổi trẻ đang giá\" sign and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "sign",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_073",
+    "image_path": "images/mocchau/mocchau_073.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và cảnh quan thiên nhiên",
+      "en": "Tea hills with fresh green tea rows and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_075",
+    "image_path": "images/mocchau/mocchau_075.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và cảnh quan thiên nhiên",
+      "en": "Tea hills with fresh green tea rows and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_076",
+    "image_path": "images/mocchau/mocchau_076.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và cảnh quan thiên nhiên",
+      "en": "Tea hills with fresh green tea rows and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_077",
+    "image_path": "images/mocchau/mocchau_077.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và cảnh quan thiên nhiên",
+      "en": "Tea hills with fresh green tea rows and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_078",
+    "image_path": "images/mocchau/mocchau_078.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và cảnh quan thiên nhiên",
+      "en": "Tea hills with fresh green tea rows and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "mocchau_079",
+    "image_path": "images/mocchau/mocchau_079.jpg",
+    "location": {
+      "city": "Mộc Châu",
+      "country": "Việt Nam",
+      "region": "Miền Bắc"
+    },
+    "landmark": "Đồi chè Mộc Châu",
+    "captions": {
+      "vi": "Đồi chè với những hàng chè xanh tươi và cảnh quan thiên nhiên",
+      "en": "Tea hills with fresh green tea rows and natural landscape"
+    },
+    "tags": [
+      "moc chau",
+      "tea plantation",
+      "tea hills",
+      "green",
+      "nature",
+      "agriculture",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_001",
+    "image_path": "images/muine/muine_001.png",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bò Cát Vàng Travel Event",
+    "captions": {
+      "vi": "Sự kiện du lịch Bò Cát Vàng với các hoạt động travel, media và teambuilding",
+      "en": "Bò Cát Vàng travel event featuring travel activities, media coverage and team building"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "travel event",
+      "media",
+      "teambuilding",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "event",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_002",
+    "image_path": "images/muine/muine_002.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với cát vàng và nước biển trong xanh",
+      "en": "Mũi Né beach with golden sand and clear blue sea water"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "beach",
+      "sea",
+      "coast",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_003",
+    "image_path": "images/muine/muine_003.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát đỏ Mũi Né với hình dạng độc đáo và màu sắc rực rỡ",
+      "en": "Mũi Né red sand dunes with unique shapes and vibrant colors"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "red sand",
+      "desert",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_004",
+    "image_path": "images/muine/muine_004.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát Mũi Né với những đường cong tự nhiên và cảnh quan hoang sơ",
+      "en": "Mũi Né sand dunes with natural curves and pristine landscape"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "desert",
+      "landscape",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_005",
+    "image_path": "images/muine/muine_005.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chàm Poshanư",
+    "captions": {
+      "vi": "Tháp Chàm Poshanư - Vẻ đẹp huyền bí văn hóa Chăm Pa cổ xưa",
+      "en": "Poshanư Cham Tower - Mysterious beauty of ancient Champa culture"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "cham tower",
+      "poshanu",
+      "historical",
+      "culture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_006",
+    "image_path": "images/muine/muine_006.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chàm Poshanư",
+    "captions": {
+      "vi": "Kiến trúc Tháp Chàm Poshanư với những hoa văn tinh xảo",
+      "en": "Poshanư Cham Tower architecture with intricate patterns"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "cham tower",
+      "poshanu",
+      "architecture",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_007",
+    "image_path": "images/muine/muine_007.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chàm Poshanư",
+    "captions": {
+      "vi": "Tháp Chàm Poshanư trong khung cảnh thiên nhiên xung quanh",
+      "en": "Poshanư Cham Tower in its natural surroundings"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "cham tower",
+      "poshanu",
+      "historical",
+      "nature",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_008",
+    "image_path": "images/muine/muine_008.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Po Sa Inư",
+    "captions": {
+      "vi": "Tháp Po Sa Inư với biển hiệu \"Boo SORT & SPA\"",
+      "en": "Po Sa Inư Tower with \"Boo SORT & SPA\" sign"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "cham tower",
+      "posainu",
+      "historical",
+      "spa",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_009",
+    "image_path": "images/muine/muine_009.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chàm Poshanư",
+    "captions": {
+      "vi": "Góc nhìn khác của Tháp Chàm Poshanư với kiến trúc độc đáo",
+      "en": "Another perspective of Poshanư Cham Tower with unique architecture"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "cham tower",
+      "poshanu",
+      "architecture",
+      "historical",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_010",
+    "image_path": "images/muine/muine_010.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Khu nghỉ dưỡng Mũi Né",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng cao cấp tại Mũi Né với hồ bơi và view biển",
+      "en": "Luxury resort in Mũi Né with swimming pool and sea view"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "resort",
+      "luxury",
+      "swimming pool",
+      "accommodation",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_011",
+    "image_path": "images/muine/muine_011.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với những chiếc thuyền thúng truyền thống và nước biển trong xanh",
+      "en": "Mũi Né beach with traditional round boats and clear blue sea water"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "beach",
+      "round boat",
+      "fishing",
+      "sea",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_012",
+    "image_path": "images/muine/muine_012.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát đỏ Mũi Né với những đường cong mềm mại và màu sắc rực rỡ",
+      "en": "Mũi Né red sand dunes with soft curves and vibrant colors"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "red sand",
+      "desert",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_013",
+    "image_path": "images/muine/muine_013.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Saigon Star Travel",
+    "captions": {
+      "vi": "Công ty du lịch Saigon Star Travel với tour \"Chinh phục Đình Cát - Hương Tới Hoàn Ác\"",
+      "en": "Saigon Star Travel company with \"Conquer Dinh Cat - Huong Toi Hoan Ac\" tour"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "travel agency",
+      "saigon star",
+      "tour",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_014",
+    "image_path": "images/muine/muine_014.png",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Mũi Né Explorer",
+    "captions": {
+      "vi": "Website Mũi Né Explorer với biển hiệu \"HAI TUAN\" và dịch vụ du lịch địa phương",
+      "en": "Mũi Né Explorer website with \"HAI TUAN\" sign and local tourism services"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "website",
+      "tourism",
+      "local guide",
+      "travel",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_015",
+    "image_path": "images/muine/muine_015.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Khu nghỉ dưỡng Mũi Né",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng cao cấp với hồ bơi vô cực và view biển tuyệt đẹp tại Mũi Né",
+      "en": "Luxury resort with infinity pool and stunning sea view in Mũi Né"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "resort",
+      "infinity pool",
+      "luxury",
+      "accommodation",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_016",
+    "image_path": "images/muine/muine_016.png",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Allezboo Beach Resort & Spa",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng Allezboo Beach Resort & Spa với thiết kế hiện đại và dịch vụ spa",
+      "en": "Allezboo Beach Resort & Spa with modern design and spa services"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "resort",
+      "spa",
+      "beach resort",
+      "accommodation",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_017",
+    "image_path": "images/m极ine/muine_017.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với cát trắng mịn và những hàng dừa nghiêng bóng",
+      "en": "Mũi Né beach with fine white sand and leaning coconut trees"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "beach",
+      "white sand",
+      "coconut trees",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_018",
+    "image_path": "images/muine/muine_018.png",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát Mũi Né với những vệt cát lượn sóng và bóng râm từ mây trời",
+      "en": "Mũi Né sand dunes with wave-like sand patterns and cloud shadows"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "desert",
+      "patterns",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_019",
+    "image_path": "images/muine/muine_019.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chàm Poshanư",
+    "captions": {
+      "vi": "Tháp Chàm Poshanư với kiến trúc cổ kính và những hoa văn Chăm Pa tinh xảo",
+      "en": "Poshanư Cham Tower with ancient architecture and intricate Champa patterns"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "cham tower",
+      "poshanu",
+      "historical",
+      "architecture",
+      "vietnam"
+    ],
+    "category": "historical",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_020",
+    "image_path": "images/muine/muine_020.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với những chiếc dù che nắng và ghế nghỉ cho du khách",
+      "en": "Mũi Né beach with sun umbrellas and resting chairs for tourists"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "beach",
+      "sun umbrella",
+      "tourist",
+      "relaxation",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_021",
+    "image_path": "images/muine/muine_021.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát Mũi Né với những đường cong tự nhiên và màu sắc đặc trưng của cát đỏ",
+      "en": "Mũi Né sand dunes with natural curves and characteristic red sand colors"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "red sand",
+      "desert",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_022",
+    "image_path": "images/muine/muine_022.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Khu nghỉ dưỡng Mũi Né",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng ven biển với kiến trúc hiện đại và hồ bơi ngoài trời",
+      "en": "Coastal resort with modern architecture and outdoor swimming pool"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "resort",
+      "swimming pool",
+      "accommodation",
+      "coastal",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_023",
+    "image_path": "images/muine/muine_023.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với những con sóng nhẹ nhàng và bầu trời trong xanh",
+      "en": "Mũi Né beach with gentle waves and clear blue sky"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "beach",
+      "waves",
+      "sea",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_024",
+    "image_path": "images/muine/muine_024.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát Mũi Né với những vệt cát lượn sóng tạo nên cảnh quan độc đáo",
+      "en": "Mũi Né sand dunes with wave-like sand patterns creating unique landscape"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "patterns",
+      "desert",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_025",
+    "image_path": "images/muine/muine_025.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Khu nghỉ dưỡng Mũi Né",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng cao cấp với thiết kế sang trọng và view biển tuyệt đẹp",
+      "en": "Luxury resort with elegant design and stunning sea view"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "resort",
+      "luxury",
+      "accommodation",
+      "sea view",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_026",
+    "image_path": "images/muine/muine_026.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với cát vàng mịn và những hàng dừa xanh mát",
+      "en": "Mũi Né beach with fine yellow sand and cool green coconut trees"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "beach",
+      "yellow sand",
+      "coconut trees",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_027",
+    "image_path": "images/muine/muine_027.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "极Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Đồi cát Mũi Né với những bóng râm tự nhiên từ mây và địa hình đồi",
+      "en": "Mũi Né sand dunes with natural shadows from clouds and hill terrain"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "sand dunes",
+      "shadows",
+      "desert",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_028",
+    "image_path": "images/muine/muine_028.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Khu nghỉ dưỡng Mũi Né",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng với hồ bơi vô cực và kiến trúc hài hòa với thiên nhiên",
+      "en": "Resort with infinity pool and architecture harmonizing with nature"
+    },
+    "tags": [
+      "muine",
+      "bình thuận",
+      "resort",
+      "infinity pool",
+      "accommodation",
+      "nature",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_030",
+    "image_path": "images/muine/muine_030.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc áo dài truyền thống đứng trước Tháp Chăm Po Sah Inu",
+      "en": "Woman in traditional dress standing in front of Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "traditional dress"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_031",
+    "image_path": "images/muine/muine_031.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đường ven biển Mũi Né",
+    "captions": {
+      "vi": "Toàn cảnh đường ven biển Mũi Né với bãi biển đông đúc và hàng dừa xanh mướt",
+      "en": "Panoramic view of Mui Ne coastal road with crowded beach and lush green palm trees"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "coastal road",
+      "beach",
+      "sea",
+      "ocean",
+      "travel",
+      "landscape",
+      "vietnam",
+      "crowded"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_032",
+    "image_path": "images/muine/muine_032.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Cặp đôi đứng trước Tháp Chăm Po Sah Inu dưới bầu trời xanh",
+      "en": "Couple standing in front of Po Sah Inu Cham Tower under a blue sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "couple",
+      "travel"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_033",
+    "image_path": "images/muine/muine_033.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Tháp Chăm Po Sah Inu với dòng chữ 'THÁP CHĂM Poshanu' trên bầu trời xanh",
+      "en": "Po Sah Inu Cham Tower with 'THÁP CHĂM Poshanu' text against a blue sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "landmark"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_035",
+    "image_path": "images/muine/muine_035.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Dòng suối Tiên chảy qua những đồi cát đỏ và trắng độc đáo",
+      "en": "Fairy Stream flowing through unique red and white sand dunes"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sand dunes",
+      "red sand",
+      "white sand",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_036",
+    "image_path": "images/muine/muine_036.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Tháp Chăm Po Sah Inu với một tháp nhỏ hơn bên cạnh, dưới bầu trời xanh có mây",
+      "en": "Po Sah Inu Cham Tower with a smaller tower beside it, under a cloudy blue sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "landmark"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_037",
+    "image_path": "images/muine/muine_037.jpg",
+    "location": {
+      "city": "Kê Gà",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Hải đăng Kê Gà",
+    "captions": {
+      "vi": "Hải đăng Kê Gà đứng sừng sững trên đảo đá giữa biển xanh cát vàng",
+      "en": "Ke Ga Lighthouse standing tall on a rocky islet amidst blue sea and golden sand"
+    },
+    "tags": [
+      "ke ga",
+      "binh thuan",
+      "lighthouse",
+      "sea",
+      "ocean",
+      "beach",
+      "rocky islet",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_038",
+    "image_path": "images/muine/muine_038.jpg",
+    "location": {
+      "city": "Phan Thiết",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Các điểm du lịch Phan Thiết",
+    "captions": {
+      "vi": "Tổng hợp các điểm du lịch nổi bật tại Phan Thiết, bao gồm biển, tháp nước, chùa và núi",
+      "en": "Collage of prominent tourist attractions in Phan Thiet, including beaches, water tower, pagodas, and mountains"
+    },
+    "tags": [
+      "phan thiet",
+      "binh thuan",
+      "tourist attractions",
+      "beach",
+      "water tower",
+      "pagoda",
+      "mountain",
+      "travel",
+      "vietnam",
+      "collage"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_039",
+    "image_path": "images/muine/muine_039.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ với túi xách đứng trước Tháp Chăm Po Sah Inu dưới bầu trời nhiều mây",
+      "en": "Woman with a handbag standing in front of Po Sah Inu Cham Tower under a cloudy sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "fashion",
+      "travel"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_040",
+    "image_path": "images/muine/muine_040.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc váy cam tạo dáng trước hai tháp Chăm Po Sah Inu dưới ánh nắng rực rỡ",
+      "en": "Woman in orange dress posing in front of two Po Sah Inu Cham towers under bright sunlight"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_041",
+    "image_path": "images/muine/muine_041.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ quay lưng, tóc dài, mặc váy vàng đứng trước Tháp Chăm Po Sah Inu",
+      "en": "Woman with long hair, wearing a yellow dress, standing with her back to the Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_042",
+    "image_path": "images/muine/muine_042.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Tổng hợp các hình ảnh Suối Tiên với dòng suối chảy qua những đồi cát đỏ và trắng độc đáo",
+      "en": "Collage of Fairy Stream images with the stream flowing through unique red and white sand dunes"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sand dunes",
+      "red sand",
+      "white sand",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "collage"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_043",
+    "image_path": "images/muine/muine_043.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc váy trắng đứng trước Tháp Chăm Po Sah Inu dưới bầu trời xanh trong",
+      "en": "Woman in white dress standing in front of Po Sah Inu Cham Tower under a clear blue sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_044",
+    "image_path": "images/muine/muine_044.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Người đàn ông đi bộ trong dòng Suối Tiên chảy qua những vách đá sa thạch đỏ",
+      "en": "Man walking in Fairy Stream flowing through red sandstone cliffs"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sandstone",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "man",
+      "travel"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_045",
+    "image_path": "images/muine/muine_045.jpg",
+    "location": {
+      "city": "Kê Gà",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi đá Kê Gà",
+    "captions": {
+      "vi": "Bãi đá Kê Gà phủ đầy rêu xanh với một tảng đá hình thù độc đáo nhô lên khỏi mặt biển",
+      "en": "Ke Ga rocky beach covered with green moss and a uniquely shaped rock protruding from the sea"
+    },
+    "tags": [
+      "ke ga",
+      "binh thuan",
+      "rocky beach",
+      "moss",
+      "sea",
+      "ocean",
+      "nature",
+      "landscape",
+      "vietnam",
+      "unique rock"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_046",
+    "image_path": "images/muine/muine_046.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Các điểm du lịch Mũi Né - Phan Thiết",
+    "captions": {
+      "vi": "Ảnh bìa quảng cáo du lịch Mũi Né - Phan Thiết với các điểm tham quan nổi bật và nhóm bạn trên xe jeep",
+      "en": "Mui Ne - Phan Thiet tourism advertisement cover photo with prominent attractions and a group of friends on a jeep"
+    },
+    "tags": [
+      "muine",
+      "phan thiet",
+      "binh thuan",
+      "travel",
+      "tourism",
+      "advertisement",
+      "jeep",
+      "beach",
+      "sand dunes",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_047",
+    "image_path": "images/muine/muine_047.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc áo phông đỏ và quần jean đứng trước Tháp Chăm Po Sah Inu",
+      "en": "Woman in red t-shirt and jeans standing in front of Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_049",
+    "image_path": "images/muine/muine_049.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Toàn cảnh Suối Tiên nhìn từ trên cao với dòng suối uốn lượn giữa đồi cát đỏ và cây xanh",
+      "en": "Panoramic view of Fairy Stream from above with the stream winding between red sand dunes and lush greenery"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sand dunes",
+      "red sand",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "aerial view"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_050",
+    "image_path": "images/muine/muine_050.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc váy dài hoa văn đứng trước Tháp Chăm Po Sah Inu",
+      "en": "Woman in a patterned long dress standing in front of Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman",
+      "fashion"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_051",
+    "image_path": "images/muine/muine_051.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Suối Tiên với dòng nước chảy qua những đồi cát đỏ và trắng, có logo Danago",
+      "en": "Fairy Stream with water flowing through red and white sand dunes, featuring Danago logo"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sand dunes",
+      "red sand",
+      "white sand",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "danago"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_052",
+    "image_path": "images/muine/muine_052.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Tháp Chăm Po Sah Inu với cây cảnh và một tháp nhỏ hơn bên cạnh",
+      "en": "Po Sah Inu Cham Tower with ornamental plants and a smaller tower beside it"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "landmark",
+      "ornamental plants"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_053",
+    "image_path": "images/muine/muine_053.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Người đàn ông đi bộ trong dòng Suối Tiên giữa những vách đá sa thạch và cây xanh",
+      "en": "Man walking in Fairy Stream between sandstone cliffs and green trees"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sandstone",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "man",
+      "travel"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_054",
+    "image_path": "images/muine/muine_054.png",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc áo dài cam ngồi tạo dáng trước hai tháp Chăm Po Sah Inu",
+      "en": "Woman in orange ao dai posing while sitting in front of two Po Sah Inu Cham towers"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman",
+      "ao dai"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_055",
+    "image_path": "images/muine/muine_055.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát bay Mũi Né",
+    "captions": {
+      "vi": "Đồi cát bay Mũi Né với những vân cát uốn lượn dưới bầu trời xanh",
+      "en": "Mui Ne flying sand dunes with undulating sand patterns under a blue sky"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "sand dunes",
+      "flying sand dunes",
+      "desert",
+      "nature",
+      "landscape",
+      "vietnam",
+      "blue sky"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_056",
+    "image_path": "images/muine/muine_056.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Hai người phụ nữ tạo dáng trước Tháp Chăm Po Sah Inu dưới bầu trời xanh trong",
+      "en": "Two women posing in front of Po Sah Inu Cham Tower under a clear blue sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "women"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_057",
+    "image_path": "images/muine/muine_057.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Suối Tiên với dòng nước chảy qua những vách đá sa thạch đỏ và trắng, cây xanh hai bên bờ",
+      "en": "Fairy Stream with water flowing through red and white sandstone cliffs, green trees on both banks"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sandstone",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "trees"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_058",
+    "image_path": "images/muine/muine_058.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ mặc đồ trắng, đội mũ rộng vành đứng trước Tháp Chăm Po Sah Inu",
+      "en": "Woman in white outfit and wide-brimmed hat standing in front of Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "woman",
+      "fashion"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_059",
+    "image_path": "images/muine/muine_059.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Toàn cảnh Tháp Chăm Po Sah Inu nhìn từ trên cao, được bao quanh bởi cây xanh",
+      "en": "Aerial view of Po Sah Inu Cham Tower surrounded by lush greenery"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "landmark",
+      "aerial view",
+      "greenery"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_060",
+    "image_path": "images/muine/muine_060.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát hồng Mũi Né",
+    "captions": {
+      "vi": "Đồi cát hồng Mũi Né với những vân cát uốn lượn dưới bầu trời xanh thẳm",
+      "en": "Mui Ne Red Sand Dunes with undulating sand patterns under a deep blue sky"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "sand dunes",
+      "red sand",
+      "nature",
+      "landscape",
+      "vietnam",
+      "blue sky"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_061",
+    "image_path": "images/muine/muine_061.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Suối Tiên",
+    "captions": {
+      "vi": "Đông đảo du khách đi bộ trong dòng Suối Tiên chảy qua những vách đá sa thạch đỏ và trắng",
+      "en": "Numerous tourists walking in Fairy Stream flowing through red and white sandstone cliffs"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fairy stream",
+      "suoi tien",
+      "sandstone",
+      "stream",
+      "nature",
+      "landscape",
+      "vietnam",
+      "tourists",
+      "travel"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_063",
+    "image_path": "images/muine/muine_063.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Tháp Chăm Po Sah Inu dưới bầu trời xanh biếc với những đám mây trắng",
+      "en": "Po Sah Inu Cham Tower under a clear blue sky with white clouds"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "blue sky"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_064",
+    "image_path": "images/muine/muine_064.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Hai tháp Chăm Po Sah Inu với một cổng vòm cổ kính, được bao quanh bởi cây xanh",
+      "en": "Two Po Sah Inu Cham towers with an ancient archway, surrounded by green trees"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "archway",
+      "greenery"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_066",
+    "image_path": "images/muine/muine_066.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp canh cổ Mũi Né",
+    "captions": {
+      "vi": "Tháp canh cổ bằng đá bên bờ biển Mũi Né với tầm nhìn ra biển xanh",
+      "en": "Ancient stone watchtower on Mui Ne coastline with a view of the blue sea"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "watchtower",
+      "ancient structure",
+      "sea",
+      "coastline",
+      "history",
+      "vietnam",
+      "blue sea"
+    ],
+    "category": "history",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_067",
+    "image_path": "images/muine/muine_067.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Du khách xem biểu diễn văn hóa truyền thống trước Tháp Chăm Po Sah Inu",
+      "en": "Tourists watching a traditional cultural performance in front of Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "cultural performance",
+      "tourists"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_069",
+    "image_path": "images/muine/muine_069.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Gành Son",
+    "captions": {
+      "vi": "Người phụ nữ đứng bên hồ nước tự nhiên được bao quanh bởi các khối đá độc đáo ven biển",
+      "en": "Woman standing by a natural rock pool surrounded by unique coastal rock formations"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "rock pool",
+      "coastal rocks",
+      "sea",
+      "nature",
+      "landscape",
+      "vietnam",
+      "woman",
+      "gành son"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_072",
+    "image_path": "images/muine/muine_072.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Làng chài Mũi Né",
+    "captions": {
+      "vi": "Toàn cảnh làng chài Mũi Né với hàng trăm thuyền thúng và thuyền đánh cá trên biển",
+      "en": "Panoramic view of Mui Ne fishing village with hundreds of basket boats and fishing boats on the sea"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "fishing village",
+      "basket boats",
+      "fishing boats",
+      "sea",
+      "ocean",
+      "culture",
+      "vietnam",
+      "landscape"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_073",
+    "image_path": "images/muine/muine_073.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Tháp Chăm Po Sah Inu nhìn qua những tán cây xanh, dưới bầu trời trong xanh",
+      "en": "Po Sah Inu Cham Tower viewed through green tree canopies, under a clear blue sky"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "greenery"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_074",
+    "image_path": "images/muine/muine_074.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Du khách tham quan khu vực Tháp Chăm Po Sah Inu với kiến trúc cổ kính",
+      "en": "Tourists visiting the Po Sah Inu Cham Tower area with ancient architecture"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "tourists",
+      "travel"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_075",
+    "image_path": "images/muine/muine_075.jpg",
+    "location": {
+      "city": "Phan Thiết",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bảo tàng Hồ Chí Minh - Chi nhánh Bình Thuận",
+    "captions": {
+      "vi": "Khuôn viên kiến trúc truyền thống Việt Nam với những người phụ nữ mặc áo dài và nón lá",
+      "en": "Traditional Vietnamese architectural complex with women in ao dai and conical hats"
+    },
+    "tags": [
+      "phan thiet",
+      "binh thuan",
+      "traditional architecture",
+      "ao dai",
+      "conical hat",
+      "culture",
+      "vietnam",
+      "garden",
+      "museum"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_076",
+    "image_path": "images/muine/muine_076.jpg",
+    "location": {
+      "city": "Kê Gà",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Hải đăng Kê Gà",
+    "captions": {
+      "vi": "Hải đăng Kê Gà sừng sững trên đảo đá, bao quanh bởi biển xanh và bầu trời trong",
+      "en": "Ke Ga Lighthouse standing tall on a rocky island, surrounded by blue sea and clear sky"
+    },
+    "tags": [
+      "ke ga",
+      "binh thuan",
+      "lighthouse",
+      "rocky island",
+      "sea",
+      "ocean",
+      "nature",
+      "landmark",
+      "vietnam",
+      "blue sky"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_077",
+    "image_path": "images/muine/muine_077.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Tháp Chăm Po Sah Inu với kiến trúc cổ kính, được bao quanh bởi cây xanh và ánh nắng",
+      "en": "Po Sah Inu Cham Tower with ancient architecture, surrounded by green trees and sunlight"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "greenery",
+      "sunlight"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_062",
+    "image_path": "images/muine/muine_062.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ với mái tóc đen dài quay lưng, hướng về Tháp Chăm Po Sah Inu",
+      "en": "Woman with long black hair facing away, looking towards Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "woman",
+      "travel"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_065",
+    "image_path": "images/muine/muine_065.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Người phụ nữ nắm tay một người khác, dẫn lối về phía Tháp Chăm Po Sah Inu",
+      "en": "Woman holding another person's hand, leading towards Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "travel",
+      "couple",
+      "woman"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_068",
+    "image_path": "images/muine/muine_068.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Đồi cát Mũi Né",
+    "captions": {
+      "vi": "Hai người đàn ông lái xe địa hình (ATV) trên đồi cát Mũi Né dưới bầu trời trong xanh",
+      "en": "Two men riding an ATV on Mui Ne sand dunes under a clear blue sky"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "sand dunes",
+      "atv",
+      "adventure",
+      "nature",
+      "landscape",
+      "vietnam",
+      "men",
+      "travel"
+    ],
+    "category": "adventure",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_070",
+    "image_path": "images/muine/muine_070.png",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Tháp Chăm Po Sah Inu",
+    "captions": {
+      "vi": "Ba người phụ nữ mặc áo dài xanh truyền thống tạo dáng trước Tháp Chăm Po Sah Inu",
+      "en": "Three women in traditional blue ao dai posing in front of Po Sah Inu Cham Tower"
+    },
+    "tags": [
+      "cham tower",
+      "po sah inu",
+      "muine",
+      "binh thuan",
+      "ancient architecture",
+      "culture",
+      "history",
+      "vietnam",
+      "ao dai",
+      "women",
+      "traditional dress"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_071",
+    "image_path": "images/muine/muine_071.jpg",
+    "location": {
+      "city": "Mũi Né",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Bãi biển Mũi Né",
+    "captions": {
+      "vi": "Bãi biển Mũi Né với cát trắng, hàng dừa xanh và sóng biển vỗ bờ dưới bầu trời trong xanh",
+      "en": "Mui Ne beach with white sand, green palm trees, and ocean waves under a clear blue sky"
+    },
+    "tags": [
+      "muine",
+      "binh thuan",
+      "beach",
+      "sea",
+      "ocean",
+      "palm trees",
+      "nature",
+      "landscape",
+      "vietnam",
+      "blue sky"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "muine_078",
+    "image_path": "images/muine/muine_078.jpg",
+    "location": {
+      "city": "Phan Thiết",
+      "country": "Việt Nam",
+      "region": "Miền Nam",
+      "province": "Bình Thuận"
+    },
+    "landmark": "Chùa núi Tà Cú",
+    "captions": {
+      "vi": "Quần thể chùa trên sườn núi Tà Cú với kiến trúc nhiều tầng, nhìn ra thung lũng xanh",
+      "en": "Temple complex on Ta Cu mountain slope with multi-tiered architecture, overlooking a green valley"
+    },
+    "tags": [
+      "phan thiet",
+      "binh thuan",
+      "ta cu mountain",
+      "temple",
+      "pagoda",
+      "mountain",
+      "architecture",
+      "culture",
+      "vietnam",
+      "landscape",
+      "aerial view"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_001",
+    "image_path": "images/nghean/nghean_001.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu và Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh Đảo Lan Châu và bãi biển Cửa Lò đông đúc từ trên cao, với nhiều thuyền neo đậu trên mặt nước xanh biếc",
+      "en": "Aerial view of Lan Chau Island and crowded Cua Lo beach, with many boats anchored on the turquoise water"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "beach",
+      "sea",
+      "boats",
+      "aerial view",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_002",
+    "image_path": "images/nghean/nghean_002.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Bãi biển Cửa Lò đông đúc với nhiều người tắm biển dưới bầu trời xanh và những đám mây trắng",
+      "en": "Crowded Cua Lo beach with many people swimming under a blue sky and white clouds"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "swimming",
+      "crowd",
+      "sea",
+      "summer",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_003",
+    "image_path": "images/nghean/nghean_003.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh bãi biển Cửa Lò dài và cong, đông nghịt người tắm biển, cùng hàng cây xanh và khu nghỉ dưỡng ven biển",
+      "en": "Panoramic view of the long and curved Cua Lo beach, packed with swimmers, green trees, and coastal resorts"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "crowd",
+      "aerial view",
+      "resort",
+      "tourism",
+      "vietnam",
+      "summer"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_005",
+    "image_path": "images/nghean/nghean_005.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Cảnh hoàng hôn tuyệt đẹp tại Đảo Lan Châu, Cửa Lò với những chiếc thuyền đánh cá neo đậu trên biển",
+      "en": "Beautiful sunset scene at Lan Chau Island, Cua Lo, with fishing boats anchored on the sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "sunset",
+      "boats",
+      "sea",
+      "evening",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "sunset"
+  },
+  {
+    "image_id": "nghean_006",
+    "image_path": "images/nghean/nghean_006.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh Đảo Lan Châu và bãi biển Cửa Lò lúc bình minh hoặc hoàng hôn, với ánh nắng chiếu rọi",
+      "en": "Panoramic view of Lan Chau Island and Cua Lo beach at sunrise or sunset, with sunlight shining down"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "beach",
+      "sunrise",
+      "sunset",
+      "sea",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_008",
+    "image_path": "images/nghean/nghean_008.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bờ biển Cửa Lò",
+    "captions": {
+      "vi": "Bờ biển đá với cây xanh và mặt biển xanh ngọc bích yên bình tại Cửa Lò",
+      "en": "Rocky coastline with green vegetation and calm turquoise sea at Cua Lo"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "coastline",
+      "rocks",
+      "sea",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_009",
+    "image_path": "images/nghean/nghean_009.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu và Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh Đảo Lan Châu và bãi biển Cửa Lò từ trên cao, với nhiều thuyền neo đậu trên mặt nước xanh biếc và thông tin du lịch",
+      "en": "Aerial view of Lan Chau Island and Cua Lo beach from above, with many boats anchored on the turquoise water and tourism information"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "beach",
+      "sea",
+      "boats",
+      "aerial view",
+      "tourism",
+      "vietnam",
+      "advertisement"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_010",
+    "image_path": "images/nghean/nghean_010.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh Đảo Lan Châu với các tòa nhà hiện đại và cầu cảng vươn ra biển xanh",
+      "en": "Panoramic view of Lan Chau Island with modern buildings and a pier extending into the blue sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "pier",
+      "sea",
+      "architecture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_011",
+    "image_path": "images/nghean/nghean_011.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bờ biển Cửa Lò",
+    "captions": {
+      "vi": "Khung cảnh yên bình của biển Cửa Lò với những chiếc thuyền nhỏ và đồi núi xanh mướt, được đóng khung bởi cành cây",
+      "en": "Peaceful scene of Cua Lo sea with small boats and lush green hills, framed by tree branches"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "sea",
+      "boats",
+      "hills",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_013",
+    "image_path": "images/nghean/nghean_013.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Bãi biển cát vàng rộng lớn, uốn lượn dọc theo bờ biển với hàng cây xanh và những tòa nhà xa xa",
+      "en": "Vast golden sandy beach, curving along the coastline with green trees and distant buildings"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "sandy beach",
+      "coastline",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_014",
+    "image_path": "images/nghean/nghean_014.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Khu vực ven biển Cửa Lò",
+    "captions": {
+      "vi": "Một người đang dã ngoại trên vách đá màu đỏ nhìn ra vịnh biển xanh và những ngọn đồi xanh tươi",
+      "en": "A person having a picnic on a red cliff overlooking a blue bay and lush green hills"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "picnic",
+      "cliff",
+      "sea",
+      "bay",
+      "nature",
+      "landscape",
+      "vietnam",
+      "travel"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_015",
+    "image_path": "images/nghean/nghean_015.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Bãi biển Cửa Lò cực kỳ đông đúc với hàng ngàn người đang tắm biển và vui chơi trên cát",
+      "en": "Extremely crowded Cua Lo beach with thousands of people swimming and playing on the sand"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "crowd",
+      "swimming",
+      "summer",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_016",
+    "image_path": "images/nghean/nghean_016.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu (từ xa)",
+    "captions": {
+      "vi": "Một hòn đảo xanh nằm ở phía xa trên mặt biển xanh với những con sóng lăn tăn",
+      "en": "A green island in the distance on the blue sea with gentle waves"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "island",
+      "sea",
+      "waves",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_017",
+    "image_path": "images/nghean/nghean_017.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bờ biển Cửa Lò",
+    "captions": {
+      "vi": "Bờ biển đá với cây xanh và mặt biển xanh yên bình dưới bầu trời trong xanh",
+      "en": "Rocky coastline with green vegetation and calm blue sea under a clear blue sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "coastline",
+      "rocks",
+      "sea",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_018",
+    "image_path": "images/nghean/nghean_018.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi đá Đảo Lan Châu",
+    "captions": {
+      "vi": "Bãi biển đá với cây xanh và mặt biển xanh biếc, có thể là khu vực Đảo Lan Châu",
+      "en": "Rocky beach with green vegetation and turquoise sea, possibly Lan Chau Island area"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "rocky beach",
+      "sea",
+      "nature",
+      "landscape",
+      "vietnam",
+      "dao lan chau"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_019",
+    "image_path": "images/nghean/nghean_019.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Một nhóm thanh niên tạo dáng trên những tảng đá lớn gần biển, với Đảo Lan Châu ở phía sau",
+      "en": "A group of young men posing on large rocks near the sea, with Lan Chau Island in the background"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "rocks",
+      "sea",
+      "group",
+      "people",
+      "tourism",
+      "vietnam",
+      "youth"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_020",
+    "image_path": "images/nghean/nghean_020.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Khu nghỉ dưỡng Hòn Ngư hoặc Đảo Lan Châu",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng ven biển với những ngôi nhà gỗ truyền thống nằm trên mặt nước trong xanh, bao quanh bởi cây xanh và núi non",
+      "en": "Coastal resort with traditional wooden houses over clear turquoise water, surrounded by lush greenery and mountains"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "resort",
+      "beach",
+      "sea",
+      "island",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_021",
+    "image_path": "images/nghean/nghean_021.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Cầu cảng Đảo Lan Châu",
+    "captions": {
+      "vi": "Cầu cảng bê tông vươn ra biển xanh từ bờ đá, dưới bầu trời trong xanh",
+      "en": "Concrete pier extending into the blue sea from a rocky coastline, under a clear blue sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "pier",
+      "sea",
+      "rocks",
+      "coastline",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_022",
+    "image_path": "images/nghean/nghean_022.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi đá Đảo Lan Châu",
+    "captions": {
+      "vi": "Một cô gái trẻ ngồi trên những tảng đá ven biển, nhìn ra mặt biển xanh ngọc bích",
+      "en": "A young woman sitting on coastal rocks, looking out at the turquoise sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "rocks",
+      "sea",
+      "woman",
+      "tourism",
+      "vietnam",
+      "portrait"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_023",
+    "image_path": "images/nghean/nghean_023.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Lối xuống biển Đảo Lan Châu",
+    "captions": {
+      "vi": "Một người phụ nữ đi xuống cầu thang trắng dẫn ra bờ biển đá với tầm nhìn ra biển và núi",
+      "en": "A woman walking down white stairs leading to a rocky coastline with a view of the sea and mountains"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "stairs",
+      "sea",
+      "rocks",
+      "coastline",
+      "tourism",
+      "vietnam",
+      "woman"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_024",
+    "image_path": "images/nghean/nghean_024.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Toàn cảnh Cửa Lò và Đảo Lan Châu",
+    "captions": {
+      "vi": "Toàn cảnh Cửa Lò từ trên cao với bãi biển dài, khu đô thị và Đảo Lan Châu nổi bật",
+      "en": "Aerial view of Cua Lo with its long beach, urban area, and prominent Lan Chau Island"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "aerial view",
+      "beach",
+      "city",
+      "island",
+      "urban",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_025",
+    "image_path": "images/nghean/nghean_025.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò lúc bình minh/hoàng hôn",
+    "captions": {
+      "vi": "Cảnh bình minh hoặc hoàng hôn trên bãi biển với những người dân địa phương và thuyền thúng, xe kéo trên cát",
+      "en": "Sunrise or sunset scene on the beach with local people, coracle boats, and carts on the sand"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "sunrise",
+      "sunset",
+      "fishing boats",
+      "local life",
+      "vietnam"
+    ],
+    "category": "lifestyle",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "nghean_026",
+    "image_path": "images/nghean/nghean_026.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Cảnh quan Đảo Lan Châu với một tháp canh trên đỉnh đồi, biển và bầu trời hoàng hôn",
+      "en": "Landscape of Lan Chau Island with a watchtower on a hilltop, the sea, and a sunset sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "watchtower",
+      "sea",
+      "sunset",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "sunset"
+  },
+  {
+    "image_id": "nghean_027",
+    "image_path": "images/nghean/nghean_027.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Cầu cảng Cửa Lò",
+    "captions": {
+      "vi": "Một cặp đôi vui vẻ trên cầu cảng, người đàn ông nhảy lên với chiếc ô đầy màu sắc",
+      "en": "A joyful couple on a pier, the man jumping with a colorful umbrella"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "pier",
+      "couple",
+      "joy",
+      "umbrella",
+      "sea",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_028",
+    "image_path": "images/nghean/nghean_028.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi đá Đảo Lan Châu",
+    "captions": {
+      "vi": "Một cô gái ngồi trên bệ bê tông ven biển, nhìn ra những tảng đá và thành phố xa xa",
+      "en": "A girl sitting on a concrete platform by the sea, looking out at the rocky formations and distant city"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "sea",
+      "rocks",
+      "girl",
+      "coastline",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_029",
+    "image_path": "images/nghean/nghean_029.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh Đảo Lan Châu với ngọn hải đăng, tháp canh và những ngọn đồi xanh mướt, phía trước là cánh đồng lúa vàng",
+      "en": "Panoramic view of Lan Chau Island with a lighthouse, watchtower, and lush green hills, with a golden rice field in the foreground"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "lighthouse",
+      "watchtower",
+      "hills",
+      "rice field",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_030",
+    "image_path": "images/nghean/nghean_030.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Ngư (từ trên cao)",
+    "captions": {
+      "vi": "Cảnh từ trên cao của hai hòn đảo xanh biếc giữa biển cả bao la",
+      "en": "Aerial view of two lush green islands in the vast blue sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao ngu",
+      "island",
+      "aerial view",
+      "sea",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_031",
+    "image_path": "images/nghean/nghean_031.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò hoặc khu vực ven biển khác",
+    "captions": {
+      "vi": "Một vịnh biển yên bình với bãi cát vàng, bờ đá, một tòa nhà ven biển và con đường uốn lượn qua những ngọn đồi xanh",
+      "en": "A peaceful bay with a sandy beach, rocky shore, a coastal building, and a winding road through green hills"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "bay",
+      "beach",
+      "rocks",
+      "road",
+      "hills",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_032",
+    "image_path": "images/nghean/nghean_032.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu và Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Hai ảnh ghép chụp từ trên cao cho thấy sự thay đổi hoặc góc nhìn khác nhau của Đảo Lan Châu và bãi biển Cửa Lò",
+      "en": "Two aerial composite images showing different perspectives or changes of Lan Chau Island and Cua Lo beach"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "beach",
+      "aerial view",
+      "composite",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_033",
+    "image_path": "images/nghean/nghean_033.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Thành phố Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh thành phố Cửa Lò từ trên cao với sân vận động, các tòa nhà cao tầng và biển xanh với một hòn đảo xa xa",
+      "en": "Aerial view of Cua Lo city with a stadium, high-rise buildings, and the blue sea with a distant island"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "city",
+      "aerial view",
+      "stadium",
+      "sea",
+      "urban",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "cityscape",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_034",
+    "image_path": "images/nghean/nghean_034.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Cảnh từ trên cao của Đảo Lan Châu với các tòa nhà, cầu cảng và những chiếc thuyền neo đậu trên biển",
+      "en": "Aerial view of Lan Chau Island with buildings, a pier, and boats anchored on the sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "aerial view",
+      "pier",
+      "boats",
+      "sea",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_035",
+    "image_path": "images/nghean/nghean_035.png",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi đá Đảo Lan Châu",
+    "captions": {
+      "vi": "Một khối đá lớn nổi bật trên nền biển xanh ngọc bích và bờ đá",
+      "en": "A prominent rock formation against a backdrop of turquoise sea and rocky coastline"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "rocks",
+      "sea",
+      "coastline",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_036",
+    "image_path": "images/nghean/nghean_036.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Cảnh từ trên cao của Đảo Lan Châu nối với đất liền bằng con đường, với bãi biển và thuyền thúng",
+      "en": "Aerial view of Lan Chau Island connected to the mainland by a road, with a beach and coracle boats"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "aerial view",
+      "road",
+      "beach",
+      "boats",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_037",
+    "image_path": "images/nghean/nghean_037.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Khu nghỉ dưỡng Cửa Lò",
+    "captions": {
+      "vi": "Khu nghỉ dưỡng với nhiều biệt thự mái ngói, bãi biển dài và những ngọn đồi xanh bao quanh",
+      "en": "Resort complex with many tiled-roof villas, a long sandy beach, and surrounding green hills"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "resort",
+      "villas",
+      "beach",
+      "hills",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_038",
+    "image_path": "images/nghean/nghean_038.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Cầu cảng Cửa Lò",
+    "captions": {
+      "vi": "Cầu cảng dài vươn ra biển xanh từ bờ biển đầy cây xanh, với một con thuyền nhỏ neo đậu",
+      "en": "A long pier extending into the blue sea from a lush green coastline, with a small boat docked"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "pier",
+      "sea",
+      "coastline",
+      "boat",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_039",
+    "image_path": "images/nghean/nghean_039.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu, Cửa Lò",
+    "captions": {
+      "vi": "Cảnh Đảo Lan Châu từ bãi biển với những con sóng nhẹ, tháp canh và những ngọn đồi xanh",
+      "en": "View of Lan Chau Island from the beach with gentle waves, a watchtower, and green hills"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "beach",
+      "waves",
+      "watchtower",
+      "hills",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_040",
+    "image_path": "images/nghean/nghean_040.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Ngọn hải đăng Đảo Lan Châu",
+    "captions": {
+      "vi": "Ngọn hải đăng sọc xanh trắng trên đỉnh đồi đá, nhìn ra biển lúc bình minh hoặc hoàng hôn với ánh nắng rực rỡ",
+      "en": "Green and white striped lighthouse on a rocky hilltop, overlooking the sea at sunrise or sunset with a vibrant glow"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "lighthouse",
+      "island",
+      "sea",
+      "sunset",
+      "sunrise",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "nghean_041",
+    "image_path": "images/nghean/nghean_041.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Đảo Lan Châu",
+    "captions": {
+      "vi": "Du khách lên bờ từ thuyền cao tốc tại một bãi biển đá, dưới bầu trời xanh trong",
+      "en": "Tourists disembarking from a speedboat onto a rocky beach, under a clear blue sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "boat",
+      "tourists",
+      "sea",
+      "travel",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_042",
+    "image_path": "images/nghean/nghean_042.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Cánh đồng hoa hướng dương",
+    "captions": {
+      "vi": "Cánh đồng hoa hướng dương rộng lớn nở rộ dưới bầu trời xanh đầy mây trắng",
+      "en": "Vast field of blooming sunflowers under a blue sky with white clouds"
+    },
+    "tags": [
+      "nghe an",
+      "sunflowers",
+      "flower field",
+      "nature",
+      "landscape",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_043",
+    "image_path": "images/nghean/nghean_043.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò và Đảo Lan Châu",
+    "captions": {
+      "vi": "Bãi biển cát rộng với một hòn đảo nhỏ phủ đầy cây xanh ở phía xa, dưới bầu trời nhiều mây",
+      "en": "Wide sandy beach with a small, green-covered island in the distance, under a cloudy sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "island",
+      "sea",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_044",
+    "image_path": "images/nghean/nghean_044.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đồi chè",
+    "captions": {
+      "vi": "Những đồi chè xanh mướt được cắt tỉa gọn gàng, tạo thành các đường cong uốn lượn trên sườn đồi",
+      "en": "Lush green tea hills neatly trimmed, forming winding contours on the hillside"
+    },
+    "tags": [
+      "nghe an",
+      "tea plantation",
+      "tea hills",
+      "agriculture",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_045",
+    "image_path": "images/nghean/nghean_045.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Dự án khu nghỉ dưỡng ven biển Cửa Lò",
+    "captions": {
+      "vi": "Bản vẽ thiết kế một khu nghỉ dưỡng ven biển hiện đại với bãi biển, cầu cảng và các biệt thự trên sườn đồi xanh",
+      "en": "Architectural rendering of a modern coastal resort with a beach, pier, and villas on green hillsides"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "resort",
+      "architecture",
+      "design",
+      "beach",
+      "pier",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_046",
+    "image_path": "images/nghean/nghean_046.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bản đồ quy hoạch du lịch Cửa Lò",
+    "captions": {
+      "vi": "Bản đồ quy hoạch du lịch Cửa Lò với các điểm tham quan như Quảng trường Bình Minh, Cầu Cửa Hội và khu Vinpearl",
+      "en": "Tourism planning map of Cua Lo with attractions like Binh Minh Square, Cua Hoi Bridge, and Vinpearl area"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "map",
+      "tourism",
+      "planning",
+      "attractions",
+      "vietnam"
+    ],
+    "category": "information",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_047",
+    "image_path": "images/nghean/nghean_047.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "VinWonders Cửa Lò",
+    "captions": {
+      "vi": "Toàn cảnh khu nghỉ dưỡng VinWonders Cửa Lò với bãi biển dài, các tòa nhà hiện đại và cầu cảng vươn ra biển",
+      "en": "Panoramic view of VinWonders Cua Lo resort with a long beach, modern buildings, and a pier extending into the sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "vinwonders",
+      "resort",
+      "beach",
+      "pier",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_048",
+    "image_path": "images/nghean/nghean_048.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Công viên nước VinWonders Cửa Lò",
+    "captions": {
+      "vi": "Công viên nước nổi trên biển với nhiều trò chơi bơm hơi, bãi biển cát vàng và hàng dừa xanh mát",
+      "en": "Inflatable water park on the sea with various games, a golden sandy beach, and lush palm trees"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "water park",
+      "beach",
+      "sea",
+      "tourism",
+      "vietnam",
+      "entertainment"
+    ],
+    "category": "entertainment",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_049",
+    "image_path": "images/nghean/nghean_049.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Nhà hàng Song Ngư hoặc công trình kiến trúc ven biển",
+    "captions": {
+      "vi": "Tòa nhà hiện đại trên vách đá nhìn ra biển, với kiến trúc độc đáo và một thang máy bên ngoài",
+      "en": "Modern building on a cliff overlooking the sea, with unique architecture and an external elevator"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "architecture",
+      "sea",
+      "cliff",
+      "restaurant",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "architecture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_050",
+    "image_path": "images/nghean/nghean_050.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Cánh đồng hoa hướng dương",
+    "captions": {
+      "vi": "Một cô gái trẻ đứng giữa cánh đồng hoa hướng dương rực rỡ dưới bầu trời xanh",
+      "en": "A young girl standing amidst a vibrant sunflower field under a blue sky"
+    },
+    "tags": [
+      "nghe an",
+      "sunflowers",
+      "flower field",
+      "girl",
+      "nature",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_051",
+    "image_path": "images/nghean/nghean_051.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Lan Châu",
+    "captions": {
+      "vi": "Hình ảnh Đảo Lan Châu từ biển với những khối đá lởm chởm và dòng chữ 'Feeling the ecological beauty of Lan Chau island'",
+      "en": "Image of Lan Chau Island from the sea with rugged rock formations and the text 'Feeling the ecological beauty of Lan Chau island'"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "island",
+      "sea",
+      "rocks",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_052",
+    "image_path": "images/nghean/nghean_052.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Điểm ngắm cảnh Cửa Lò",
+    "captions": {
+      "vi": "Một người phụ nữ đội mũ rộng vành nhìn ra toàn cảnh thành phố Cửa Lò và bãi biển từ trên cao",
+      "en": "A woman in a wide-brimmed hat looking out at a panoramic view of Cua Lo city and beach from a high vantage point"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "viewpoint",
+      "cityscape",
+      "beach",
+      "woman",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_053",
+    "image_path": "images/nghean/nghean_053.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Cảnh hoàng hôn hoặc bình minh trên bãi biển Cửa Lò với những người đang tắm biển và một hòn đảo ở đường chân trời",
+      "en": "Sunset or sunrise scene on Cua Lo beach with people swimming and an island on the horizon"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "sunset",
+      "sunrise",
+      "sea",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "nghean_054",
+    "image_path": "images/nghean/nghean_054.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Thác nước và hồ nước xanh",
+    "captions": {
+      "vi": "Thác nước hùng vĩ đổ xuống hồ nước xanh ngọc bích, với một chiếc thuyền chở du khách và núi rừng xanh tươi bao quanh",
+      "en": "Majestic waterfall cascading into a turquoise lake, with a boat carrying tourists and lush green mountains surrounding it"
+    },
+    "tags": [
+      "nghe an",
+      "waterfall",
+      "lake",
+      "boat",
+      "mountains",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_055",
+    "image_path": "images/nghean/nghean_055.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển đá Cửa Lò",
+    "captions": {
+      "vi": "Bãi biển đầy đá cuội với những chiếc thuyền thúng neo đậu, nhìn ra biển xanh và đường bờ biển xa xa",
+      "en": "Pebble beach with coracle boats anchored, looking out at the blue sea and distant coastline"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "pebbles",
+      "coracle boats",
+      "sea",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_056",
+    "image_path": "images/nghean/nghean_056.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Phong cảnh núi non và sông",
+    "captions": {
+      "vi": "Phong cảnh núi non hùng vĩ với dòng sông uốn lượn và nhà máy thủy điện, cùng dòng chữ 'Nghệ An Let's go travel!'",
+      "en": "Majestic mountainous landscape with a winding river and a hydroelectric power plant, with the text 'Nghệ An Let's go travel!'"
+    },
+    "tags": [
+      "nghe an",
+      "mountains",
+      "river",
+      "hydroelectric",
+      "nature",
+      "landscape",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_057",
+    "image_path": "images/nghean/nghean_057.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Một người phụ nữ ngồi trên bãi biển cát nhìn ra biển động và một hòn đảo xa xa, với dòng chữ 'Đi Cửa Lò chơi ở đâu?'",
+      "en": "A woman sitting on a sandy beach looking out at the wavy sea and a distant island, with the text 'Where to play in Cua Lo?'"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "sea",
+      "woman",
+      "island",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_058",
+    "image_path": "images/nghean/nghean_058.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Cánh đồng hoa hướng dương",
+    "captions": {
+      "vi": "Một người phụ nữ đi bộ giữa cánh đồng hoa hướng dương vàng rực, nhìn từ phía sau",
+      "en": "A woman walking through a vibrant yellow sunflower field, seen from behind"
+    },
+    "tags": [
+      "nghe an",
+      "sunflowers",
+      "flower field",
+      "woman",
+      "nature",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_059",
+    "image_path": "images/nghean/nghean_059.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển đá Cửa Lò",
+    "captions": {
+      "vi": "Bờ biển đá với sóng vỗ vào bờ, nhìn ra biển xanh dưới bầu trời u ám",
+      "en": "Rocky coastline with waves crashing against the shore, looking out at the blue sea under an overcast sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "rocky beach",
+      "sea",
+      "waves",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_061",
+    "image_path": "images/nghean/nghean_061.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đảo Ngư",
+    "captions": {
+      "vi": "Toàn cảnh Đảo Ngư từ trên cao, một hòn đảo nhỏ màu xanh giữa biển xanh với những chiếc thuyền neo đậu",
+      "en": "Aerial view of Ngu Island, a small green island in the blue sea with boats anchored"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao ngu",
+      "island",
+      "sea",
+      "aerial view",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_062",
+    "image_path": "images/nghean/nghean_062.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi Lữ",
+    "captions": {
+      "vi": "Toàn cảnh Bãi Lữ với bãi biển hình vòng cung, nước biển trong xanh và những ngọn đồi xanh mướt bao quanh",
+      "en": "Panoramic view of Bai Lu with its crescent-shaped beach, clear blue water, and lush green hills surrounding it"
+    },
+    "tags": [
+      "nghe an",
+      "bai lu",
+      "beach",
+      "sea",
+      "hills",
+      "nature",
+      "landscape",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_063",
+    "image_path": "images/nghean/nghean_063.jpg",
+    "location": {
+      "city": "Nam Đàn",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Làng Sen (Quê Bác)",
+    "captions": {
+      "vi": "Ngôi nhà tranh truyền thống với mái lá và sân vườn xanh mát, tượng trưng cho quê hương Chủ tịch Hồ Chí Minh",
+      "en": "Traditional thatched-roof house with a green courtyard, symbolizing President Ho Chi Minh's hometown"
+    },
+    "tags": [
+      "nam dan",
+      "nghe an",
+      "lang sen",
+      "que bac",
+      "ho chi minh",
+      "historical site",
+      "traditional house",
+      "culture",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_064",
+    "image_path": "images/nghean/nghean_064.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Điểm ngắm cảnh Đảo Lan Châu",
+    "captions": {
+      "vi": "Một người phụ nữ đội mũ rộng vành, mặc váy đỏ đứng trên vách đá nhìn ra biển xanh ngắt",
+      "en": "A woman in a wide-brimmed hat and red dress standing on a rocky cliff, looking out at the deep blue sea"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "viewpoint",
+      "sea",
+      "woman",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_065",
+    "image_path": "images/nghean/nghean_065.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Đền thờ trên Đảo Lan Châu",
+    "captions": {
+      "vi": "Khu vực thờ cúng với các tượng đá và lư hương nhìn ra biển từ trên cao, gần một biệt thự hiện đại",
+      "en": "Worship area with stone statues and incense burners overlooking the sea from above, near a modern villa"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "temple",
+      "shrine",
+      "sea",
+      "culture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_066",
+    "image_path": "images/nghean/nghean_066.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Điểm ngắm cảnh Cửa Lò",
+    "captions": {
+      "vi": "Một người phụ nữ đội mũ rộng vành, mặc váy trắng đứng trên vách đá nhìn ra biển xanh với những bãi đá",
+      "en": "A woman in a wide-brimmed hat and white dress standing on a rocky cliff, looking out at the blue sea with rock formations"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "viewpoint",
+      "sea",
+      "rocks",
+      "woman",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "people",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_067",
+    "image_path": "images/nghean/nghean_067.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi đá Đảo Lan Châu",
+    "captions": {
+      "vi": "Những khối đá sắc nhọn nổi lên giữa biển trong ánh hoàng hôn tím hồng, với một hòn đảo xa xa",
+      "en": "Sharp rock formations emerging from the sea during a purple-pink sunset, with a distant island"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "dao lan chau",
+      "rocks",
+      "sea",
+      "sunset",
+      "nature",
+      "landscape",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "nghean_068",
+    "image_path": "images/nghean/nghean_068.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò xưa",
+    "captions": {
+      "vi": "Bức ảnh cũ chụp bãi biển với những chiếc thuyền đánh cá truyền thống và người dân trên bãi cát",
+      "en": "Old photograph of a beach with traditional fishing boats and people on the sand"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "fishing boats",
+      "historical",
+      "black and white",
+      "culture",
+      "vietnam"
+    ],
+    "category": "history",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_069",
+    "image_path": "images/nghean/nghean_069.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò và Đảo Lan Châu",
+    "captions": {
+      "vi": "Bãi biển cát rộng với những con sóng nhỏ và một hòn đảo xanh phía xa, dưới bầu trời xanh trong",
+      "en": "Wide sandy beach with small waves and a green island in the distance, under a clear blue sky"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "dao lan chau",
+      "island",
+      "sea",
+      "nature",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_071",
+    "image_path": "images/nghean/nghean_071.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi đá Cửa Lò",
+    "captions": {
+      "vi": "Bờ biển đá với những khối đá lớn nhô ra biển, phía xa là một tòa nhà khách sạn và đường bờ biển",
+      "en": "Rocky coastline with large rock formations extending into the sea, with a hotel building and coastline in the distance"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "rocky beach",
+      "sea",
+      "hotel",
+      "architecture",
+      "nature",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_073",
+    "image_path": "images/nghean/nghean_073.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi Lữ",
+    "captions": {
+      "vi": "Bãi biển hình vòng cung với cát vàng, nước biển xanh ngọc và những ngọn đồi xanh bao quanh",
+      "en": "Crescent-shaped beach with golden sand, turquoise water, and green hills surrounding it"
+    },
+    "tags": [
+      "nghe an",
+      "bai lu",
+      "beach",
+      "sea",
+      "hills",
+      "nature",
+      "landscape",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_074",
+    "image_path": "images/nghean/nghean_074.jpg",
+    "location": {
+      "city": "Cửa Lò",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Bãi biển Cửa Lò",
+    "captions": {
+      "vi": "Cảnh bình minh hoặc hoàng hôn trên bãi biển Cửa Lò với mặt trời rực rỡ trên đường chân trời và những người đang tắm biển",
+      "en": "Sunrise or sunset scene on Cua Lo beach with a vibrant sun on the horizon and people swimming"
+    },
+    "tags": [
+      "cua lo",
+      "nghe an",
+      "beach",
+      "sunset",
+      "sunrise",
+      "sea",
+      "people",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "nature",
+    "time_taken": "sunrise/sunset"
+  },
+  {
+    "image_id": "nghean_075",
+    "image_path": "images/nghean/nghean_075.jpg",
+    "location": {
+      "city": "Nghệ An",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Khu nghỉ dưỡng Bãi Lữ",
+    "captions": {
+      "vi": "Toàn cảnh khu nghỉ dưỡng Bãi Lữ từ trên cao với các biệt thự và khách sạn trải dài theo bờ biển hình vòng cung",
+      "en": "Aerial view of Bai Lu resort with villas and hotels stretching along the crescent-shaped coastline"
+    },
+    "tags": [
+      "nghe an",
+      "bai lu",
+      "resort",
+      "beach",
+      "aerial view",
+      "architecture",
+      "tourism",
+      "vietnam"
+    ],
+    "category": "travel",
+    "time_taken": "day"
+  },
+  {
+    "image_id": "nghean_076",
+    "image_path": "images/nghean/nghean_076.jpg",
+    "location": {
+      "city": "Nam Đàn",
+      "country": "Việt Nam",
+      "region": "Miền Trung",
+      "province": "Nghệ An"
+    },
+    "landmark": "Làng Sen (Quê Bác)",
+    "captions": {
+      "vi": "Một nhóm người mặc áo dài truyền thống tại khu nhà tranh của Làng Sen, quê hương Chủ tịch Hồ Chí Minh",
+      "en": "A group of people in traditional ao dai at the thatched-roof houses of Lang Sen, President Ho Chi Minh's hometown"
+    },
+    "tags": [
+      "nam dan",
+      "nghe an",
+      "lang sen",
+      "que bac",
+      "ho chi minh",
+      "historical site",
+      "traditional house",
+      "people",
+      "culture",
+      "vietnam"
+    ],
+    "category": "culture",
+    "time_taken": "day"
   }
-
-
 ]
