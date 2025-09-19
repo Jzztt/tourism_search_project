@@ -1692,28 +1692,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "hanoi_003",
-    "image_path": "images/hanoi/hanoi_003.jpg",
-    "location": {
-      "city": "Hà Nội",
-      "country": "Việt Nam"
-    },
-    "landmark": "Hồ Gươm - Tháp Rùa",
-    "captions": {
-      "vi": "Bình minh trên Hồ Gươm với Tháp Rùa",
-      "en": "Sunrise at Hoan Kiem Lake with Turtle Tower"
-    },
-    "tags": [
-      "hanoi",
-      "hoan kiem lake",
-      "thap rua",
-      "sunrise",
-      "vietnam"
-    ],
-    "category": "landmark",
-    "time_taken": "morning"
-  },
-  {
     "image_id": "hanoi_004",
     "image_path": "images/hanoi/hanoi_004.jpg",
     "location": {
