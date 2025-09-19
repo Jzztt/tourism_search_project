@@ -49,7 +49,12 @@ class CLIPImageSearch:
         for idx, item in enumerate(self.dataset):
             try:
                 # Load image
-                image_path = item['image_path']
+                # image_path = item['image_path']
+                image_path = item.get('image_path')
+                if not image_path:
+                    print(f"Warning: missing image_path in item {item.get('image_id', 'unknown')}")
+                    continue
+
                 image = Image.open(image_path).convert('RGB')
                 
                 # Preprocess và encode
@@ -258,7 +263,7 @@ if __name__ == "__main__":
     
     # Test search
     print("\n=== SEARCH RESULTS ===")
-    results = search_system.search(" Biển Đà Nẵng", top_k=3)
+    results = search_system.search("cánh đồng hoa đỏ moc chau", top_k=3)
     
     for idx, result in enumerate(results):
         print(f"\nResult {idx+1}:")
@@ -270,8 +275,8 @@ if __name__ == "__main__":
     # Test advanced search
     print("\n=== ADVANCED SEARCH RESULTS ===")
     results = search_system.advanced_search(
-        "beach", 
-        location_filter="Đà Nẵng",
+        "Cánh đồng hoa đỏ moc chau", 
+        location_filter="Mộc Châu",
         top_k=2
     )
     

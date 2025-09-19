@@ -1692,28 +1692,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "hanoi_003",
-    "image_path": "images/hanoi/hanoi_003.jpg",
-    "location": {
-      "city": "Hà Nội",
-      "country": "Việt Nam"
-    },
-    "landmark": "Hồ Gươm - Tháp Rùa",
-    "captions": {
-      "vi": "Bình minh trên Hồ Gươm với Tháp Rùa",
-      "en": "Sunrise at Hoan Kiem Lake with Turtle Tower"
-    },
-    "tags": [
-      "hanoi",
-      "hoan kiem lake",
-      "thap rua",
-      "sunrise",
-      "vietnam"
-    ],
-    "category": "landmark",
-    "time_taken": "morning"
-  },
-  {
     "image_id": "hanoi_004",
     "image_path": "images/hanoi/hanoi_004.jpg",
     "location": {
@@ -2039,28 +2017,7 @@
     "category": "urban",
     "time_taken": "day"
   },
-  {
-    "image_id": "hanoi_031",
-    "image_path": "images/hanoi/hanoi_031.jpg",
-    "location": {
-      "city": "Hà Nội",
-      "country": "Việt Nam"
-    },
-    "landmark": "Tháp Rùa - Hồ Gươm",
-    "captions": {
-      "vi": "Tháp Rùa bên Hồ Gươm với chữ Hà Nội nổi bật",
-      "en": "Turtle Tower at Hoan Kiem Lake with Hanoi text overlay"
-    },
-    "tags": [
-      "hanoi",
-      "thap rua",
-      "hoan kiem lake",
-      "text overlay",
-      "vietnam"
-    ],
-    "category": "landmark",
-    "time_taken": "day"
-  },
+ 
   {
     "image_id": "hanoi_032",
     "image_path": "images/hanoi/hanoi_032.jpg",
@@ -2479,28 +2436,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "hanoi_053",
-    "image_path": "images/hanoi/hanoi_053.jpg",
-    "location": {
-      "city": "Hà Nội",
-      "country": "Việt Nam"
-    },
-    "landmark": "Tháp Rùa Hồ Gươm",
-    "captions": {
-      "vi": "Tháp Rùa Hồ Gươm lung linh ánh đèn về đêm",
-      "en": "Turtle Tower at Hoan Kiem Lake illuminated at night"
-    },
-    "tags": [
-      "hanoi",
-      "turtle tower",
-      "hoan kiem lake",
-      "night",
-      "vietnam"
-    ],
-    "category": "landmark",
-    "time_taken": "night"
-  },
-  {
     "image_id": "hanoi_054",
     "image_path": "images/hanoi/hanoi_054.jpg",
     "location": {
@@ -2909,27 +2844,7 @@
     "category": "historical",
     "time_taken": "day"
   },
-  {
-    "image_id": "hue_007",
-    "image_path": "images/hue/hue_007.jpg",
-    "location": {
-      "city": "Huế",
-      "country": "Việt Nam"
-    },
-    "landmark": "Kinh thành Huế",
-    "captions": {
-      "vi": "Kinh thành Huế với kiến trúc truyền thống",
-      "en": "Hue Imperial Citadel with traditional architecture"
-    },
-    "tags": [
-      "hue",
-      "imperial citadel",
-      "traditional architecture",
-      "vietnam"
-    ],
-    "category": "historical",
-    "time_taken": "day"
-  },
+ 
   {
     "image_id": "hue_008",
     "image_path": "images/hue/hue_008.jpg",
@@ -2989,28 +2904,6 @@
       "khai dinh tomb",
       "mausoleum",
       "architecture",
-      "vietnam"
-    ],
-    "category": "historical",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "hue_011",
-    "image_path": "images/hue/hue_011.jpg",
-    "location": {
-      "city": "Huế",
-      "country": "Việt Nam"
-    },
-    "landmark": "Lăng Tự Đức",
-    "captions": {
-      "vi": "Lăng Tự Đức - một trong những lăng tẩm nổi tiếng tại Huế",
-      "en": "Tu Duc Tomb - one of the famous tombs in Hue"
-    },
-    "tags": [
-      "hue",
-      "tu duc tomb",
-      "mausoleum",
-      "historical",
       "vietnam"
     ],
     "category": "historical",
@@ -3181,28 +3074,6 @@
       "hue",
       "imperial citadel",
       "aerial view",
-      "historical",
-      "vietnam"
-    ],
-    "category": "historical",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "hue_021",
-    "image_path": "images/hue/hue_021.jpg",
-    "location": {
-      "city": "Huế",
-      "country": "Việt Nam"
-    },
-    "landmark": "Cửa Ngăn Thành",
-    "captions": {
-      "vi": "Cửa Ngăn Thành - cổng trong hệ thống kinh thành Huế",
-      "en": "Cua Ngan Thanh Gate - part of Hue Imperial Citadel"
-    },
-    "tags": [
-      "hue",
-      "imperial citadel",
-      "gate",
       "historical",
       "vietnam"
     ],
@@ -3514,28 +3385,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "hue_047",
-    "image_path": "images/hue/hue_047.jpg",
-    "location": {
-      "city": "Huế",
-      "country": "Việt Nam"
-    },
-    "landmark": "Đại Nội Huế",
-    "captions": {
-      "vi": "Toàn cảnh Đại Nội Huế nhìn từ trên cao với hồ nước bao quanh",
-      "en": "Aerial panoramic view of the Imperial City of Hue surrounded by moat"
-    },
-    "tags": [
-      "hue",
-      "imperial city",
-      "aerial view",
-      "historical site",
-      "vietnam"
-    ],
-    "category": "historical",
-    "time_taken": "day"
-  },
-  {
     "image_id": "hue_049",
     "image_path": "images/hue/hue_049.jpg",
     "location": {
@@ -3600,28 +3449,6 @@
     ],
     "category": "historical",
     "time_taken": "night"
-  },
-  {
-    "image_id": "hue_053",
-    "image_path": "images/hue/hue_053.jpg",
-    "location": {
-      "city": "Huế",
-      "country": "Việt Nam"
-    },
-    "landmark": "Lăng Tự Đức",
-    "captions": {
-      "vi": "Khung cảnh Lăng Tự Đức vào ban ngày với khách tham quan và cây xanh",
-      "en": "Daytime view of Tu Duc Tomb with visitors and greenery"
-    },
-    "tags": [
-      "hue",
-      "tu duc tomb",
-      "daytime",
-      "tourism",
-      "vietnam"
-    ],
-    "category": "historical",
-    "time_taken": "day"
   },
   {
     "image_id": "hue_054",
@@ -4087,6 +3914,7 @@
   },
   {
     "image_id": "mocchau_001",
+    "image_path": "images/mocchau/mocchau_001.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4100,6 +3928,7 @@
   },
   {
     "image_id": "mocchau_002",
+    "image_path": "images/mocchau/mocchau_002.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4113,6 +3942,7 @@
   },
   {
     "image_id": "mocchau_003",
+    "image_path": "images/mocchau/mocchau_003.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4126,6 +3956,7 @@
   },
   {
     "image_id": "mocchau_004",
+    "image_path": "images/mocchau/mocchau_004.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4139,6 +3970,7 @@
   },
   {
     "image_id": "mocchau_005",
+    "image_path": "images/mocchau/mocchau_005.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4152,6 +3984,7 @@
   },
   {
     "image_id": "mocchau_006",
+    "image_path": "images/mocchau/mocchau_006.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4165,6 +3998,7 @@
   },
   {
     "image_id": "mocchau_007",
+    "image_path": "images/mocchau/mocchau_007.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4178,6 +4012,7 @@
   },
   {
     "image_id": "mocchau_008",
+    "image_path": "images/mocchau/mocchau_008.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4191,6 +4026,7 @@
   },
   {
     "image_id": "mocchau_009",
+    "image_path": "images/mocchau/mocchau_009.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4203,6 +4039,7 @@
     "category": "nature"
   },{
     "image_id": "mocchau_010",
+    "image_path": "images/mocchau/mocchau_010.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4216,6 +4053,7 @@
   },
   {
     "image_id": "mocchau_011",
+    "image_path": "images/mocchau/mocchau_011.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4229,6 +4067,7 @@
   },
   {
     "image_id": "mocchau_012",
+    "image_path": "images/mocchau/mocchau_012.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4242,6 +4081,7 @@
   },
   {
     "image_id": "mocchau_013",
+    "image_path": "images/mocchau/mocchau_013.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4255,6 +4095,7 @@
   },
   {
     "image_id": "mocchau_014",
+    "image_path": "images/mocchau/mocchau_014.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4268,6 +4109,7 @@
   },
   {
     "image_id": "mocchau_015",
+    "image_path": "images/mocchau/mocchau_015.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4281,6 +4123,7 @@
   },
   {
     "image_id": "mocchau_016",
+    "image_path": "images/mocchau/mocchau_016.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4294,6 +4137,7 @@
   },
   {
     "image_id": "mocchau_017",
+    "image_path": "images/mocchau/mocchau_017.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4307,6 +4151,7 @@
   },
   {
     "image_id": "mocchau_018",
+    "image_path": "images/mocchau/mocchau_018.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4320,6 +4165,7 @@
   },
   {
     "image_id": "mocchau_019",
+    "image_path": "images/mocchau/mocchau_019.jpg",
     "location": {
       "region": "Mộc Châu",
       "country": "Việt Nam"
@@ -4393,28 +4239,6 @@
       "heart shape",
       "nature",
       "vietnam"
-    ],
-    "category": "nature",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "mocchau_023",
-    "image_path": "images/mocchau/mocchau_023.jpg",
-    "location": {
-      "city": "Mộc Châu",
-      "country": "Việt Nam"
-    },
-    "landmark": "Thác nước Mộc Châu",
-    "captions": {
-      "vi": "Thác nước trong xanh với cảnh vật thiên nhiên xung quanh",
-      "en": "Clear waterfall surrounded by natural scenery"
-    },
-    "tags": [
-      "moc chau",
-      "waterfall",
-      "nature",
-      "vietnam",
-      "scenery"
     ],
     "category": "nature",
     "time_taken": "day"
@@ -4705,28 +4529,6 @@
       "vietnam"
     ],
     "category": "nature",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "mocchau_037",
-    "image_path": "images/mocchau/mocchau_037.jpg",
-    "location": {
-      "city": "Mộc Châu",
-      "country": "Việt Nam"
-    },
-    "landmark": "Top 12 địa điểm du lịch Mộc Châu",
-    "captions": {
-      "vi": "Cảnh đẹp Mộc Châu với thác nước và núi non trong top 12 địa điểm du lịch",
-      "en": "Beautiful Moc Chau scenery with waterfall and mountains in top 12 tourist spots"
-    },
-    "tags": [
-      "moc chau",
-      "tourism",
-      "waterfall",
-      "mountains",
-      "vietnam"
-    ],
-    "category": "travel",
     "time_taken": "day"
   },
   {
@@ -5468,32 +5270,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "muine_001",
-    "image_path": "images/muine/muine_001.png",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Bò Cát Vàng Travel Event",
-    "captions": {
-      "vi": "Sự kiện du lịch Bò Cát Vàng với các hoạt động travel, media và teambuilding",
-      "en": "Bò Cát Vàng travel event featuring travel activities, media coverage and team building"
-    },
-    "tags": [
-      "muine",
-      "bình thuận",
-      "travel event",
-      "media",
-      "teambuilding",
-      "tourism",
-      "vietnam"
-    ],
-    "category": "event",
-    "time_taken": "day"
-  },
-  {
     "image_id": "muine_002",
     "image_path": "images/muine/muine_002.jpg",
     "location": {
@@ -5806,32 +5582,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "muine_014",
-    "image_path": "images/muine/muine_014.png",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Mũi Né Explorer",
-    "captions": {
-      "vi": "Website Mũi Né Explorer với biển hiệu \"HAI TUAN\" và dịch vụ du lịch địa phương",
-      "en": "Mũi Né Explorer website with \"HAI TUAN\" sign and local tourism services"
-    },
-    "tags": [
-      "muine",
-      "bình thuận",
-      "website",
-      "tourism",
-      "local guide",
-      "travel",
-      "vietnam"
-    ],
-    "category": "travel",
-    "time_taken": "day"
-  },
-  {
     "image_id": "muine_015",
     "image_path": "images/muine/muine_015.jpg",
     "location": {
@@ -5855,84 +5605,6 @@
       "vietnam"
     ],
     "category": "travel",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "muine_016",
-    "image_path": "images/muine/muine_016.png",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Allezboo Beach Resort & Spa",
-    "captions": {
-      "vi": "Khu nghỉ dưỡng Allezboo Beach Resort & Spa với thiết kế hiện đại và dịch vụ spa",
-      "en": "Allezboo Beach Resort & Spa with modern design and spa services"
-    },
-    "tags": [
-      "muine",
-      "bình thuận",
-      "resort",
-      "spa",
-      "beach resort",
-      "accommodation",
-      "vietnam"
-    ],
-    "category": "travel",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "muine_017",
-    "image_path": "images/m极ine/muine_017.jpg",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Bãi biển Mũi Né",
-    "captions": {
-      "vi": "Bãi biển Mũi Né với cát trắng mịn và những hàng dừa nghiêng bóng",
-      "en": "Mũi Né beach with fine white sand and leaning coconut trees"
-    },
-    "tags": [
-      "muine",
-      "bình thuận",
-      "beach",
-      "white sand",
-      "coconut trees",
-      "nature",
-      "vietnam"
-    ],
-    "category": "nature",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "muine_018",
-    "image_path": "images/muine/muine_018.png",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Đồi cát Mũi Né",
-    "captions": {
-      "vi": "Đồi cát Mũi Né với những vệt cát lượn sóng và bóng râm từ mây trời",
-      "en": "Mũi Né sand dunes with wave-like sand patterns and cloud shadows"
-    },
-    "tags": [
-      "muine",
-      "bình thuận",
-      "sand dunes",
-      "desert",
-      "patterns",
-      "landscape",
-      "vietnam"
-    ],
-    "category": "nature",
     "time_taken": "day"
   },
   {
@@ -6840,36 +6512,6 @@
     "time_taken": "day"
   },
   {
-    "image_id": "muine_054",
-    "image_path": "images/muine/muine_054.png",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Tháp Chăm Po Sah Inu",
-    "captions": {
-      "vi": "Người phụ nữ mặc áo dài cam ngồi tạo dáng trước hai tháp Chăm Po Sah Inu",
-      "en": "Woman in orange ao dai posing while sitting in front of two Po Sah Inu Cham towers"
-    },
-    "tags": [
-      "cham tower",
-      "po sah inu",
-      "muine",
-      "binh thuan",
-      "ancient architecture",
-      "culture",
-      "history",
-      "vietnam",
-      "travel",
-      "woman",
-      "ao dai"
-    ],
-    "category": "culture",
-    "time_taken": "day"
-  },
-  {
     "image_id": "muine_055",
     "image_path": "images/muine/muine_055.jpg",
     "location": {
@@ -7473,36 +7115,6 @@
       "travel"
     ],
     "category": "adventure",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "muine_070",
-    "image_path": "images/muine/muine_070.png",
-    "location": {
-      "city": "Mũi Né",
-      "country": "Việt Nam",
-      "region": "Miền Nam",
-      "province": "Bình Thuận"
-    },
-    "landmark": "Tháp Chăm Po Sah Inu",
-    "captions": {
-      "vi": "Ba người phụ nữ mặc áo dài xanh truyền thống tạo dáng trước Tháp Chăm Po Sah Inu",
-      "en": "Three women in traditional blue ao dai posing in front of Po Sah Inu Cham Tower"
-    },
-    "tags": [
-      "cham tower",
-      "po sah inu",
-      "muine",
-      "binh thuan",
-      "ancient architecture",
-      "culture",
-      "history",
-      "vietnam",
-      "ao dai",
-      "women",
-      "traditional dress"
-    ],
-    "category": "culture",
     "time_taken": "day"
   },
   {
@@ -8424,32 +8036,6 @@
       "vietnam"
     ],
     "category": "travel",
-    "time_taken": "day"
-  },
-  {
-    "image_id": "nghean_035",
-    "image_path": "images/nghean/nghean_035.png",
-    "location": {
-      "city": "Cửa Lò",
-      "country": "Việt Nam",
-      "region": "Miền Trung",
-      "province": "Nghệ An"
-    },
-    "landmark": "Bãi đá Đảo Lan Châu",
-    "captions": {
-      "vi": "Một khối đá lớn nổi bật trên nền biển xanh ngọc bích và bờ đá",
-      "en": "A prominent rock formation against a backdrop of turquoise sea and rocky coastline"
-    },
-    "tags": [
-      "cua lo",
-      "nghe an",
-      "rocks",
-      "sea",
-      "coastline",
-      "nature",
-      "vietnam"
-    ],
-    "category": "nature",
     "time_taken": "day"
   },
   {
